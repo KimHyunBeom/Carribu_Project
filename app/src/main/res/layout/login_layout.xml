@@ -12,10 +12,9 @@
         />
 
     <ImageButton
+        android:id="@+id/kakaoLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/kakao_login_medium_wide"
-        android:id="@+id/kakaoLogin"
-        />
+        android:src="@drawable/kakao_login_medium_wide" />
 
 </LinearLayout>
