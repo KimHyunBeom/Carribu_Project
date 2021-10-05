@@ -27,7 +27,7 @@
             android:id="@+id/listView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:scrollbarSize="40dp"
+            android:scrollbarSize="20dp"
             android:layout_marginLeft="40dp"
             ></ListView>
 
