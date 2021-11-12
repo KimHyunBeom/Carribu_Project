@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/drawable/ic_baseline_restore_24dp.xml" value="0.5697916666666667" />
         <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/activity_main.xml" value="0.38768115942028986" />
         <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/intro_layout.xml" value="0.5536458333333333" />
-        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/login_layout.xml" value="0.33" />
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/login_layout.xml" value="0.5" />
         <entry key="..\:/CookAndroid/Team_Project/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/CookAndroid/Team_Project/app/src/main/res/layout/intro_layout.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
