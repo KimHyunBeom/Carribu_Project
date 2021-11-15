@@ -1,37 +1,34 @@
 package com.carribu.carribu;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+
+    RecyclerView recyclerView;
+    RecyclerView.LayoutManager gridLayoutManager; //그리드 레이아웃
+    RecyclerView.Adapter adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("동서울대 맛집 리스트");
 
-        final String[] mid = { "중식", "일식", "햄버거", "횟집" , "돈까스" ,  "면", "떡볶이", "카페", "한식",  "양식"
-                , "술집", "치킨집", "기타" };
+        recyclerView = findViewById(R.id.recyclerView); //리사이클러뷰 참조
+        //그리드 레이아웃
+        gridLayoutManager = new GridLayoutManager(this,3);  //그리드레이아웃, 한 행에 몇 개씩 나타낼지 결정
+        //리사이클러뷰의 아이템뷰들을 그리드레이아웃으로 표시
+        recyclerView.setLayoutManager(gridLayoutManager);
 
-        ListView list = (ListView) findViewById(R.id.listView1);
+        //아이템 뷰 각각에 들어갈 text 리스트
+        String[] main_text =  {"중식","파스타", "국밥", "분식","일식","회", "패스트푸드", "카페","고깃집","샌드위치/토스트", "편의점"};
+        String[] main_text2 =  {"짜장면","test2","test3","test4","test5","test6","test7","test8","test9","test10", "test11"};
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, mid);
-        list.setAdapter(adapter);
+        //어댑터 연결
+        adapter = new MainAdapter(main_text, main_text2);  //MainAdapter 클래스에 할당
+        recyclerView.setAdapter(adapter);
 
-        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            public void onItemClick(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
-                Toast.makeText(getApplicationContext(), mid[arg2],
-                        Toast.LENGTH_SHORT).show();
-
-            }
-        });
     }
 }
