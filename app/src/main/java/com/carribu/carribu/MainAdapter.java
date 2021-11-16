@@ -13,6 +13,7 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.MainHolder> {
     private String[] main_text, main_text2; //각 아이템 뷰에 들어갈 변수
     MainHolder mainHolder;
 
+
     //각 아이템 뷰에 들어갈 변수
     public MainAdapter(String[] main_text, String[] main_text2){
         this.main_text = main_text;
