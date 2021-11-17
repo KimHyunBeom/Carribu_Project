@@ -40,11 +40,11 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(gridLayoutManager);
 
         //아이템 뷰 각각에 들어갈 text 리스트
-        String[] main_text =  {"중식","파스타", "국밥", "분식","일식","회", "패스트푸드", "카페","고깃집","샌드위치/토스트", "편의점"};
-        String[] main_text2 =  {"짜장면","test2","test3","test4","test5","test6","test7","test8","test9","test10", "test11"};
+        int[] main_image =  {R.drawable.rice, R.drawable.chinese, R.drawable.asian_food, R.drawable.sushi, R.drawable.tteokbokki, R.drawable.fast_food, R.drawable.caffee, R.drawable.beer, R.drawable.store };
+        String[] main_text =  {"한식","중국집","아시안 양식","일식", "분식", "패스트푸드", "카페/베이커리", "술집", "편의점"};
 
         //어댑터 연결
-        adapter = new MainAdapter(main_text, main_text2);  //MainAdapter 클래스에 할당
+        adapter = new MainAdapter(main_text, main_image);  //MainAdapter 클래스에 할당
         recyclerView.setAdapter(adapter);
         bottomNavigationView = findViewById(R.id.nav_view);
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
