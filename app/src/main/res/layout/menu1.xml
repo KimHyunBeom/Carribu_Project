@@ -1,43 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
-        <ImageView
-            android:layout_width="100dp"
-            android:layout_height="100dp"
-            android:id="@+id/imageitem1"
-
-            android:scaleType="fitXY"> </ImageView>
-
-
-        <TextView
-            android:id="@+id/textitem1"
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
-            android:textSize="30sp"
-            android:gravity="center"
-            android:textColor="@color/black"></TextView>
-
-    <ImageView
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:id="@+id/imageitem2"
-
-        android:scaleType="fitXY"> </ImageView>
-
-
-    <TextView
-        android:id="@+id/textitem2"
+<!--    <com.carribu.carribu.CardActivity-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/store1" /> -->
+<!--    위 패키지를 그대로 복사하면 카드뷰가 생성됨 -->
+    <com.carribu.carribu.CardActivity
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:textSize="30sp"
-        android:gravity="center"
-        android:textColor="@color/black"></TextView>
+        android:layout_height="wrap_content"
+        android:id="@+id/store1"
+        />
 
-
-
-    </androidx.cardview.widget.CardView>
+</LinearLayout>
 
 

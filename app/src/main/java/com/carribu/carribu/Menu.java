@@ -17,6 +17,7 @@ public class Menu extends AppCompatActivity {
     private ImageView imageView;
     private TextView textView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,11 +27,19 @@ public class Menu extends AppCompatActivity {
         intent = getIntent();
         //xml의 객체를 받음
 
-        imageView = findViewById(R.id.imageitem1);
-        textView = findViewById(R.id.textitem1);
-        imageView = findViewById(R.id.imageitem2);
-        textView = findViewById(R.id.textitem2);
+        /*
+        <README> - 카드뷰 내용 변경 예시
+        1. 카드뷰의 내용 작성을 위해서는 아래와 같이 작성하면 되며 미리 menu1.xml 액티비티에 카드뷰가 생성돼 있어야 한다.
+        2. 변수형은 CardActivity이며 바뀌지 않는다.
+        3. 카드뷰의 아이디는 반드시 지정돼 있어야 불러옴에 무리가 없다.
 
+        CardActivity card1 = findViewById(R.id.store1);
+
+        card1.setImage(R.drawable.ic_launcher_foreground);
+        card1.setName("홍짜장");
+        card1.setMobile("031-755-4071");
+        card1.setStore("경기 성남시 수정구 복정로 73");
+         */
 
         number = intent.getIntExtra("number", -1); //MainAdapter에서 전달된 데이터를 받음.
 

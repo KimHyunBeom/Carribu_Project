@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5697916666666667" />
         <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/drawable/ic_baseline_restore_24dp.xml" value="0.5697916666666667" />
         <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/activity_main.xml" value="0.38768115942028986" />
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/card1.xml" value="0.5494791666666666" />
         <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/intro_layout.xml" value="0.5536458333333333" />
         <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/login_layout.xml" value="0.5" />
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/main_holder_view.xml" value="0.5536458333333333" />
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/menu1.xml" value="0.5494791666666666" />
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/layout/menu_card.xml" value="0.5494791666666666" />
+        <entry key="..\:/CookAndroid/Team_Project/Carribu_Project/app/src/main/res/menu/button_menu.xml" value="0.5494791666666666" />
         <entry key="..\:/CookAndroid/Team_Project/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/CookAndroid/Team_Project/app/src/main/res/layout/intro_layout.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
@@ -14,8 +20,6 @@
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/list.xml" value="0.1296875" />
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/list_layout.xml" value="0.264" />
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/login_layout.xml" value="0.1793478260869565" />
-        <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/main_holder_view.xml" value="0.1" />
-        <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/menu1.xml" value="0.1" />
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project12/app/src/main/res/layout/activity_main.xml" value="0.24818840579710144" />
         <entry key="..\:/Users/dknla/AndroidStudioProjects/Carribu_Project12/app/src/main/res/layout/main_holder_view.xml" value="0.1" />
         <entry key="..\:/Users/ghg31/AndroidStudioProjects/Carribu_Project/app/src/main/res/layout/activity_main.xml" value="0.1118659420289855" />
