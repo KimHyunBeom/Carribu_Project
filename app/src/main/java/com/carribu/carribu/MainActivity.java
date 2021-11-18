@@ -3,7 +3,9 @@ package com.carribu.carribu;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
+import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 import androidx.annotation.NonNull;
@@ -46,7 +48,16 @@ public class MainActivity extends AppCompatActivity {
         //어댑터 연결
         adapter = new MainAdapter(main_text, main_image);  //MainAdapter 클래스에 할당
         recyclerView.setAdapter(adapter);
-        bottomNavigationView = findViewById(R.id.nav_view);
+
+        DividerItemDecoration dividerItemDecoration = new DividerItemDecoration(recyclerView.getContext(), new LinearLayoutManager(new MainActivity()).getOrientation());
+        recyclerView.addItemDecoration(dividerItemDecoration);
+
+        RecyclerDecoration spaceDecoration = new RecyclerDecoration(20); //간격조절
+        recyclerView.addItemDecoration(spaceDecoration);
+
+
+
+                bottomNavigationView = findViewById(R.id.nav_view);
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {

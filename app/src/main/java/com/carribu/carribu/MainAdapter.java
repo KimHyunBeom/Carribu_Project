@@ -1,5 +1,7 @@
 package com.carribu.carribu;
 
+import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,22 +19,24 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.MainHolder> {
 
 
     //각 아이템 뷰에 들어갈 변수
-    public MainAdapter(String[] main_text, int[] main_image){
+    public MainAdapter(String[] main_text, int[] main_image) {
         this.main_image = main_image;
         this.main_text = main_text;
     }
 
     //화면에 표시할 아이템 뷰 저장
-    public static class MainHolder extends  RecyclerView.ViewHolder{
+    public static class MainHolder extends RecyclerView.ViewHolder {
         public ImageView main_image;
-        public TextView  main_text;
-        public MainHolder(View view){
+        public TextView main_text;
+
+        public MainHolder(View view) {
             super(view);
             //뷰객체에 대한 참조
             this.main_image = view.findViewById(R.id.image);
             this.main_text = view.findViewById(R.id.text);
         }
     }
+
     @NonNull
     @Override
     //아이템뷰를 위한 뷰홀더 객체를 생성하여 리턴
@@ -45,13 +49,26 @@ public class MainAdapter extends RecyclerView.Adapter<MainAdapter.MainHolder> {
 
     @Override
     //position에 해당하는 데이터를 뷰홀더의 아이템뷰에 표시
-    public void onBindViewHolder(@NonNull MainHolder mainHolder, int i) {
+    public void onBindViewHolder(@NonNull MainHolder mainHolder, final int i) {
         mainHolder.main_image.setImageResource(this.main_image[i]);
         mainHolder.main_text.setText(this.main_text[i]);
+
+
+        mainHolder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {  //클릭시
+                Intent intent = new Intent(v.getContext(), Menu.class);   //화면전환
+                intent.putExtra("number", i);     //intent로 값 전달. number라는 키이름으로 i라는 키값인 데이터를 옮김
+                v.getContext().startActivity(intent);  //명령 실행
+            }
+        });
     }
+
+
     @Override
     //전체 아이템의 갯수 리턴
     public int getItemCount() {
         return main_text.length;
     }
 }
+

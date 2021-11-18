@@ -21,6 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"/>
+        <activity android:name=".Menu"/>
 
         <activity
             android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity"
