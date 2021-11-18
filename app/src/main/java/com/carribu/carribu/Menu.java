@@ -41,15 +41,23 @@ public class Menu extends AppCompatActivity {
         card1.setStore("경기 성남시 수정구 복정로 73");
          */
 
+        CardActivity card1 = findViewById(R.id.store1);
+        CardActivity card2 = findViewById(R.id.store2);
+
         number = intent.getIntExtra("number", -1); //MainAdapter에서 전달된 데이터를 받음.
 
         switch (number) {  //각각의 아이템에 따라 어떻게 화면이 바뀔지 swith문으로 나타냄.
             case 0:
-                imageView.setImageResource(R.mipmap.ic_launcher);
-                textView.setText("복정고을");
-                imageView.setImageResource(R.mipmap.ic_launcher);
-                textView.setText("봉구스밥버거");
+                card1.setImage(R.drawable.beer);
+                card1.setName("홍짜장");
+                card1.setMobile("031-755-4071");
+                card1.setStore("경기 성남시 수정구 복정로 73");
+                card2.setImage(R.drawable.caffee);
+                card2.setName("복정고을");
+                card2.setMobile("031-755-4071");
+                card2.setStore("경기 성남시 수정구 복정로 73");
                 break;
+
             case 1:
                 imageView.setImageResource(R.mipmap.ic_launcher);
                 textView.setText("복정고을22");

@@ -15,6 +15,13 @@
         android:id="@+id/store1"
         />
 
+    <com.carribu.carribu.CardActivity
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/store2"
+        />
+
+
 </LinearLayout>
 
 

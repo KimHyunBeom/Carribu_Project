@@ -31,6 +31,7 @@ public class CardActivity extends LinearLayout {
         imageView = findViewById(R.id.cardImgView);
         textView1 = findViewById(R.id.textView1);
         textView2 = findViewById(R.id.textView2);
+        textView3 = findViewById(R.id.textView3);
     }
 
     //뷰 데이터 설정하기
