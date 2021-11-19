@@ -3,4 +3,7 @@
     <string name="login_help_text1">어플 이용을 위해 로그인 연동을</string>
     <string name="login_help_text2">진행해 주세요.</string>
     <string name="kakao_button">카카오톡 로그인 이미지 버튼입니다.</string>
+    <string name="tab_title1">맛집</string>
+    <string name="tab_title2">즐겨찾기</string>
+    <string name="tab_title3">설정</string>
 </resources>

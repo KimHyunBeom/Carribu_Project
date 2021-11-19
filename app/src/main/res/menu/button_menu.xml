@@ -4,18 +4,18 @@
         android:id="@+id/action_list"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_sports_bar_24"
-        android:title="맛집"/>
+        android:title="@string/tab_title1"/>
 
     <item
         android:id="@+id/action_star"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_star_24"
-        android:title="즐겨찾기"/>
+        android:title="@string/tab_title2"/>
 
     <item
         android:id="@+id/action_fix"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_build_24"
-        android:title="설정"/>
+        android:title="@string/tab_title3"/>
 
 </menu>
