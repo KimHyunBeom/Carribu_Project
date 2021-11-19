@@ -472,8 +472,8 @@ public class Menu extends AppCompatActivity {
 
                 card1.setImage(R.mipmap.ic_launcher);
                 card1.setName("CU 복정빌리지점");
-                card1.setMobile("010-9135-7165");
-                card1.setStore("경기 성남시 수정구 복정로 51 101");
+                card1.setMobile("번호 없음");
+                card1.setStore("경기 성남시 수정구 복정로134번길 22-10 - 10");
 
                 card2.setImage(R.mipmap.ic_launcher);
                 card2.setName("CU 동서울대도서관점");
@@ -486,19 +486,19 @@ public class Menu extends AppCompatActivity {
                 card3.setStore("경기 성남시 수정구 복정로96번길 18");
 
                 card4.setImage(R.mipmap.ic_launcher);
-                card4.setName("세븐일레븐 복정라이브러리점");
-                card4.setMobile("031-759-0438");
-                card4.setStore("경기 성남시 수정구 복정로118번길 1");
+                card4.setName("CU 성남복정프리미엄점");
+                card4.setMobile("전화없음");
+                card4.setStore("경기 성남시 수정구 복정로 67");
 
                 card5.setImage(R.mipmap.ic_launcher);
-                card5.setName("세븐일레븐 성남동서울대점\t");
-                card5.setMobile("031-723-7282");
-                card5.setStore("경기 성남시 수정구 복정로 61");
+                card5.setName("CU 성남복정점");
+                card5.setMobile("031-755-3690");
+                card5.setStore("경기 성남시 수정구 복정로32번길 1");
 
                 card6.setImage(R.mipmap.ic_launcher);
-                card6.setName("세븐일레븐 성남복정중앙점");
-                card6.setMobile("010-9135-7165");
-                card6.setStore("경기 성남시 수정구 복정로118번길 10 1층");
+                card6.setName("CU 복정으뜸점");
+                card6.setMobile("031-754-7270");
+                card6.setStore("경기 성남시 수정구 성남대로1390번길 25-2");
 
                 card7.setImage(R.mipmap.ic_launcher);
                 card7.setName("GS25 복정도서관점");
@@ -506,14 +506,14 @@ public class Menu extends AppCompatActivity {
                 card7.setStore("경기 성남시 수정구 복정로72번길 4");
 
                 card8.setImage(R.mipmap.ic_launcher);
-                card8.setName("GS25 동서울대점");
-                card8.setMobile("031-754-8960");
-                card8.setStore("경기 성남시 수정구 복정로 116-1");
+                card8.setName("세븐일레븐 성남복정국제점");
+                card8.setMobile("전화 없음");
+                card8.setStore("경기 성남시 수정구 복정로134번길 12");
 
                 card9.setImage(R.mipmap.ic_launcher);
-                card9.setName("GS25 복정제일점");
-                card9.setMobile("031-721-1666");
-                card9.setStore("경기 성남시 수정구 복정로 10-1");
+                card9.setName("세븐일레븐 복정라이브러리점");
+                card9.setMobile("031-759-0438");
+                card9.setStore("경기 성남시 수정구 복정로118번길 1");
 
 
 
