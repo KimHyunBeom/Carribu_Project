@@ -4,11 +4,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-<!--    <com.carribu.carribu.CardActivity-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:id="@+id/store1" /> -->
-<!--    위 패키지를 그대로 복사하면 카드뷰가 생성됨 -->
+    <!--    <com.carribu.carribu.CardActivity-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/store1" /> -->
+    <!--    위 패키지를 그대로 복사하면 카드뷰가 생성됨 -->
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,65 +16,55 @@
         android:orientation="vertical">
 
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store0"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store1"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store2"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store3"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store4"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store5"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store6"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store7"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store8"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
-    <com.carribu.carribu.CardActivity
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/store9"
-        />
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
     </LinearLayout>
 
