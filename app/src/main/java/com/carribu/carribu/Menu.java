@@ -516,54 +516,90 @@ public class Menu extends AppCompatActivity {
             case 7:// 술집
 
                 card[0].setImage(R.mipmap.ic_launcher);
-                card[0].setName("리어카포차");
-                card[0].setMobile("0507-1378-3282");
-                card[0].setStore("경기 성남시 수정구 복정로 46 1층 실내포차");
+                card[0].setName(getString(R.string.beer_name0));
+                card[0].setMobile(getString(R.string.beer_moblie0));
+                card[0].setStore(getString(R.string.beer_store0));
 
                 card[1].setImage(R.mipmap.ic_launcher);
-                card[1].setName("둥근달포차");
-                card[1].setMobile("031-756-9447");
-                card[1].setStore("경기 성남시 수정구 복정로 51 101");
+                card[1].setName(getString(R.string.beer_name1));
+                card[1].setMobile(getString(R.string.beer_moblie1));
+                card[1].setStore(getString(R.string.beer_store1));
 
                 card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("UP & DOWN 포차");
-                card[2].setMobile("031-752-8845");
-                card[2].setStore("경기 성남시 수정구 복정로 56");
-
-                card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("BLISS 펍");
-                card[2].setMobile("0507-1449-2045");
-                card[2].setStore("경기 성남시 수정구 복정로 63-1 블리스펍 2층");
+                card[2].setName(getString(R.string.beer_name2));
+                card[2].setMobile(getString(R.string.beer_moblie2));
+                card[2].setStore(getString(R.string.beer_store2));
 
                 card[3].setImage(R.mipmap.ic_launcher);
-                card[3].setName("아랫달밤");
-                card[3].setMobile("031-753-0991");
-                card[3].setStore("경기 성남시 수정구 복정로42번길 1");
+                card[3].setName(getString(R.string.beer_name3));
+                card[3].setMobile(getString(R.string.beer_moblie3));
+                card[3].setStore(getString(R.string.beer_store3));
 
                 card[4].setImage(R.mipmap.ic_launcher);
-                card[4].setName("역전할머니 맥주");
-                card[4].setMobile("031-723-7282");
-                card[4].setStore("경기 성남시 수정구 복정로 61");
+                card[4].setName(getString(R.string.beer_name4));
+                card[4].setMobile(getString(R.string.beer_moblie4));
+                card[4].setStore(getString(R.string.beer_store4));
 
                 card[5].setImage(R.mipmap.ic_launcher);
-                card[5].setName("아지트");
-                card[5].setMobile("031-759-7119");
-                card[5].setStore("경기 성남시 수정구 복정로20번길 14");
+                card[5].setName(getString(R.string.beer_name5));
+                card[5].setMobile(getString(R.string.beer_moblie5));
+                card[5].setStore(getString(R.string.beer_store5));
 
                 card[6].setImage(R.mipmap.ic_launcher);
-                card[6].setName("늘푸른바다포차");
-                card[6].setMobile("010-9135-7165");
-                card[6].setStore("경기 성남시 수정구 복정로 7");
+                card[6].setName(getString(R.string.beer_name6));
+                card[6].setMobile(getString(R.string.beer_moblie6));
+                card[6].setStore(getString(R.string.beer_store6));
 
                 card[7].setImage(R.mipmap.ic_launcher);
-                card[7].setName("은하");
-                card[7].setMobile("0507-1354-2910");
-                card[7].setStore("경기 성남시 수정구 복정로 116-1");
+                card[7].setName(getString(R.string.beer_name7));
+                card[7].setMobile(getString(R.string.beer_moblie7));
+                card[7].setStore(getString(R.string.beer_store7));
 
                 card[8].setImage(R.mipmap.ic_launcher);
-                card[8].setName("킹핀비어");
-                card[8].setMobile("031-758-6169");
-                card[8].setStore("경기 성남시 수정구 복정로 89");
+                card[8].setName(getString(R.string.beer_name8));
+                card[8].setMobile(getString(R.string.beer_moblie8));
+                card[8].setStore(getString(R.string.beer_store8));
+
+                card[9].setImage(R.mipmap.ic_launcher);
+                card[9].setName(getString(R.string.beer_name9));
+                card[9].setMobile("번호 없음");
+                card[9].setStore(getString(R.string.beer_store9));
+
+                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setName(getString(R.string.beer_name10));
+                card[10].setMobile(getString(R.string.beer_moblie10));
+                card[10].setStore(getString(R.string.beer_store10));
+
+                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setName(getString(R.string.beer_name11));
+                card[11].setMobile(getString(R.string.beer_moblie11));
+                card[11].setStore(getString(R.string.beer_store11));
+
+                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setName(getString(R.string.beer_name12));
+                card[12].setMobile("번호 없음");
+                card[12].setStore(getString(R.string.beer_store12));
+
+                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setName(getString(R.string.beer_name13));
+                card[13].setMobile(getString(R.string.beer_moblie13));
+                card[13].setStore(getString(R.string.beer_store13));
+
+                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setName(getString(R.string.beer_name14));
+                card[14].setMobile(getString(R.string.beer_moblie14));
+                card[14].setStore(getString(R.string.beer_store14));
+
+                card[15].setImage(R.mipmap.ic_launcher);
+                card[15].setName(getString(R.string.beer_name15));
+                card[15].setMobile(getString(R.string.beer_moblie15));
+                card[15].setStore(getString(R.string.beer_store15));
+
+                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setName(getString(R.string.beer_name16));
+                card[16].setMobile("번호 없음");
+                card[16].setStore(getString(R.string.beer_store16));
+
                 break;
 
             case 8:// 편의점 (최신화 완료)

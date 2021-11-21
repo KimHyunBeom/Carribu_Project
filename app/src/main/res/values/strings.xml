@@ -236,6 +236,59 @@
     <string name="store_store13">경기 성남시 수정구 복정로 10-1</string>
     <string name="store_store14">경기 성남시 수정구 복정로20번길 20-12</string>
 <!--    /편의점-->
+
+<!--    <술집>-->
+    <!--술집 이름-->
+    <string name="beer_name0">리어카포차</string>
+    <string name="beer_name1">둥근달포차</string>
+    <string name="beer_name2">UP and DOWN 포차</string>
+    <string name="beer_name3">BLISS 펍</string>
+    <string name="beer_name4">토마루</string>
+    <string name="beer_name5">아랫달밤</string>
+    <string name="beer_name6">고래맥주창고</string>
+    <string name="beer_name7">켈러</string>
+    <string name="beer_name8">역전할머니 맥주</string>
+    <string name="beer_name9">HOYA</string>
+    <string name="beer_name10">맥주박스</string>
+    <string name="beer_name11">아지트</string>
+    <string name="beer_name12">늘푸른바다포차</string>
+    <string name="beer_name13">은하</string>
+    <string name="beer_name14">킹핀비어</string>
+    <string name="beer_name15">실내 포차 성남 복정점</string>
+    <string name="beer_name16">주라마틱</string>
+    <!--술집 번호-->
+    <string name="beer_moblie0">0507-1378-3282</string>
+    <string name="beer_moblie1">031-756-9447</string>
+    <string name="beer_moblie2">031-752-8845</string>
+    <string name="beer_moblie3">0507-1449-2045</string>
+    <string name="beer_moblie4">0507-1366-1377</string>
+    <string name="beer_moblie5">031-753-0991</string>
+    <string name="beer_moblie6">0507-1406-3368</string>
+    <string name="beer_moblie7">031-757-7333</string>
+    <string name="beer_moblie8">031-723-7282</string>
+    <string name="beer_moblie10">070-4116-7668</string>
+    <string name="beer_moblie11">031-759-7119</string>
+    <string name="beer_moblie13">0507-1354-2910</string>
+    <string name="beer_moblie14">031-758-6169</string>
+    <string name="beer_moblie15">0507-1378-3282</string>
+    <!--술집 주소-->
+    <string name="beer_store0">경기 성남시 수정구 복정로 46 1층 실내포차 성남복정점</string>
+    <string name="beer_store1">경기 성남시 수정구 복정로 51 101</string>
+    <string name="beer_store2">경기 성남시 수정구 복정로 56</string>
+    <string name="beer_store3">경기 성남시 수정구 복정로 63-1 블리스펍 2층</string>
+    <string name="beer_store4">경기 성남시 수정구 복정로 43 1층</string>
+    <string name="beer_store5">경기 성남시 수정구 복정로42번길 1</string>
+    <string name="beer_store6">경기 성남시 수정구 복정로 51 1층</string>
+    <string name="beer_store7">경기 성남시 수정구 복정로 43</string>
+    <string name="beer_store8">경기 성남시 수정구 복정로 61</string>
+    <string name="beer_store9">경기 성남시 수정구 복정로 32</string>
+    <string name="beer_store10">경기 성남시 수정구 복정로 20</string>
+    <string name="beer_store11">경기 성남시 수정구 복정로20번길 14</string>
+    <string name="beer_store12">경기 성남시 수정구 복정로 7</string>
+    <string name="beer_store13">경기 성남시 수정구 복정로 116-1</string>
+    <string name="beer_store14">경기 성남시 수정구 복정로 89</string>
+    <string name="beer_store15">경기 성남시 수정구 복정로 46 1층</string>
+    <string name="beer_store16">경기 성남시 수정구 복정로 129</string>
 </resources>
 
 <!--    <한식>-->
@@ -320,3 +373,22 @@
 <!--    12   GS25 동서울대점			031-754-8960	경기 성남시 수정구 복정로72번길 4-->
 <!--    13   GS25 복정제일점			031-721-1666	경기 성남시 수정구 복정로 10-1-->
 <!--    14   GS25 복정미소점			031-758-3933	경기 성남시 수정구 복정로20번길 20-12-->
+
+<!--<술집>-->
+<!--0  리어카포차		    0507-1378-3282	경기 성남시 수정구 복정로 46 1층 실내포차 성남복정점-->
+<!--1  둥근달포차		    031-756-9447	경기 성남시 수정구 복정로 51 101-->
+<!--2  UP & DOWN 포차	    031-752-8845	경기 성남시 수정구 복정로 56-->
+<!--3  BLISS 펍			0507-1449-2045	경기 성남시 수정구 복정로 63-1 블리스펍 2층-->
+<!--4  토마루			    0507-1366-1377	경기 성남시 수정구 복정로 43 1층-->
+<!--5  아랫달밤			    031-753-0991	경기 성남시 수정구 복정로42번길 1-->
+<!--6  고래맥주창고		    0507-1406-3368	경기 성남시 수정구 복정로 51 1층-->
+<!--7  켈러			        031-757-7333	경기 성남시 수정구 복정로 43-->
+<!--8  역전할머니 맥주	    031-723-7282 	경기 성남시 수정구 복정로 61-->
+<!--9  HOYA			        		    경기 성남시 수정구 복정로 32-->
+<!--10 맥주박스			    070-4116-7668	경기 성남시 수정구 복정로 20-->
+<!--11 아지트			    031-759-7119	경기 성남시 수정구 복정로20번길 14-->
+<!--12 늘푸른바다포차		    		        경기 성남시 수정구 복정로 7-->
+<!--13 은하			        0507-1354-2910	경기 성남시 수정구 복정로 116-1-->
+<!--14 킹핀비어			    031-758-6169	경기 성남시 수정구 복정로 89-->
+<!--15 실내 포차 성남 복정점	0507-1378-3282	경기 성남시 수정구 복정로 46 1층-->
+<!--16 주라마틱					            경기 성남시 수정구 복정로 129-->
