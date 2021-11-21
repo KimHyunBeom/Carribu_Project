@@ -289,6 +289,67 @@
     <string name="beer_store14">경기 성남시 수정구 복정로 89</string>
     <string name="beer_store15">경기 성남시 수정구 복정로 46 1층</string>
     <string name="beer_store16">경기 성남시 수정구 복정로 129</string>
+<!--    <일식>-->
+    <!--일식 이름-->
+    <string name="japenesF_name0">스타동</string>
+    <string name="japenesF_name1">겐코 덮밥 라멘집 일식</string>
+    <string name="japenesF_name2">도모다찌 오코노미야끼	</string>
+    <string name="japenesF_name3">가츠야</string>
+    <string name="japenesF_name4">정진욱의 돈까스가게</string>
+    <string name="japenesF_name5">카츠선 동서울대본점</string>
+    <string name="japenesF_name6">회스시</string>
+    <string name="japenesF_name7">희락돈까스</string>
+    <string name="japenesF_name8">포크포크</string>
+    <string name="japenesF_name9">아토 복정점</string>
+    <string name="japenesF_name10">피터팬 돈까스and냉모밀</string>
+    <string name="japenesF_name11">WAMAN 돈까스</string>
+    <string name="japenesF_name12">푸른바다횟집</string>
+    <string name="japenesF_name13">바다횟집</string>
+    <string name="japenesF_name14">바다생고기</string>
+    <string name="japenesF_name15">싱싱회천국</string>
+    <string name="japenesF_name16">포크포크 돈가스, 냉면</string>
+    <string name="japenesF_name17">카츠선 동서울대본점</string>
+    <string name="japenesF_name18">희락돈까스</string>
+    <!--일식 번호-->
+    <string name="japenesF_moblie0">031-757-5922</string>
+    <string name="japenesF_moblie1">031-752-2527</string>
+    <string name="japenesF_moblie2">031-752-7955</string>
+    <string name="japenesF_moblie3">0507-1400-5057</string>
+    <string name="japenesF_moblie4">0507-1318-2859</string>
+    <string name="japenesF_moblie5">0507-1323-5076</string>
+    <string name="japenesF_moblie6">0507-1313-9710</string>
+    <string name="japenesF_moblie7">031-759-0982</string>
+    <string name="japenesF_moblie8">031-751-3223</string>
+    <string name="japenesF_moblie9">031-756-8837</string>
+    <string name="japenesF_moblie10">031-759-9602</string>
+    <string name="japenesF_moblie11">031-756-9288</string>
+    <string name="japenesF_moblie12">031-752-8845</string>
+    <string name="japenesF_moblie13">031-753-7008</string>
+    <string name="japenesF_moblie14">0507-1351-8131</string>
+    <string name="japenesF_moblie15">031-751-3377</string>
+    <string name="japenesF_moblie16">031-751-3223</string>
+    <string name="japenesF_moblie17">0507-1323-507</string>
+    <string name="japenesF_moblie18">031-759-0982</string>
+    <!--일식 주소-->
+    <string name="japenesF_store0">경기 성남시 수정구 복정로 45 1층</string>
+    <string name="japenesF_store1">경기 성남시 수정구 복정로 18 1층</string>
+    <string name="japenesF_store2">경기 성남시 수정구 복정로 29</string>
+    <string name="japenesF_store3">경기 성남시 수정구 성남대로1518번길 10</string>
+    <string name="japenesF_store4">경기 성남시 수정구 복정로106번길 1</string>
+    <string name="japenesF_store5">경기 성남시 수정구 복정로 64 1층 카츠선</string>
+    <string name="japenesF_store6">경기 성남시 수정구 성남대로1416번길 14</string>
+    <string name="japenesF_store7">경기 성남시 수정구 복정로 43</string>
+    <string name="japenesF_store8">경기 성남시 수정구 복정로 30</string>
+    <string name="japenesF_store9">경기 성남시 수정구 복정로 15 위원빌딩</string>
+    <string name="japenesF_store10">경기 성남시 수정구 복정로 30</string>
+    <string name="japenesF_store11">경기 성남시 수정구 복정로 53 1층</string>
+    <string name="japenesF_store12">경기 성남시 수정구 복정로 56</string>
+    <string name="japenesF_store13">경기 성남시 수정구 복정로 26</string>
+    <string name="japenesF_store14">경기 성남시 수정구 복정로 62 1층</string>
+    <string name="japenesF_store15">경기 성남시 수정구 복정로 8</string>
+    <string name="japenesF_store16">경기 성남시 수정구 복정로 30</string>
+    <string name="japenesF_store17">경기 성남시 수정구 복정로 64 1층 카츠선</string>
+    <string name="japenesF_store18">경기 성남시 수정구 복정로 43</string>
 </resources>
 
 <!--    <한식>-->
@@ -392,3 +453,24 @@
 <!--14 킹핀비어			    031-758-6169	경기 성남시 수정구 복정로 89-->
 <!--15 실내 포차 성남 복정점	0507-1378-3282	경기 성남시 수정구 복정로 46 1층-->
 <!--16 주라마틱					            경기 성남시 수정구 복정로 129-->
+
+<!--<일집>-->
+<!--스타동			    031-757-5922	경기 성남시 수정구 복정로 45 1층-->
+<!--겐코 덮밥 라멘집 일식	031-752-2527	경기 성남시 수정구 복정로 18 1층-->
+<!--도모다찌 오코노미야끼	031-752-7955	경기 성남시 수정구 복정로 29-->
+<!--가츠야			    0507-1400-5057	경기 성남시 수정구 성남대로1518번길 10-->
+<!--정진욱의 돈까스가게	0507-1318-2859	경기 성남시 수정구 복정로106번길 1-->
+<!--카츠선 동서울대본점	0507-1323-5076	경기 성남시 수정구 복정로 64 1층 카츠선-->
+<!--회스시			    0507-1313-9710	경기 성남시 수정구 성남대로1416번길 14-->
+<!--희락돈까스		    031-759-0982	경기 성남시 수정구 복정로 43-->
+<!--포크포크			    031-751-3223	경기 성남시 수정구 복정로 30-->
+<!--아토 복정점		    031-756-8837	경기 성남시 수정구 복정로 15 위원빌딩-->
+<!--피터팬 돈까스&냉모밀	031-759-9602	경기 성남시 수정구 복정로 30-->
+<!--WAMAN 돈까스		    031-756-9288	경기 성남시 수정구 복정로 53 1층-->
+<!--푸른바다횟집		    031-752-8845	경기 성남시 수정구 복정로 56-->
+<!--바다횟집			    031-753-7008	경기 성남시 수정구 복정로 26-->
+<!--바다생고기		    0507-1351-8131	경기 성남시 수정구 복정로 62 1층-->
+<!--싱싱회천국		    031-751-3377	경기 성남시 수정구 복정로 8-->
+<!--포크포크 돈가스 , 냉면	031-751-3223	경기 성남시 수정구 복정로 30-->
+<!--카츠선 동서울대본점	0507-1323-507	경기 성남시 수정구 복정로 64 1층 카츠선-->
+<!--희락돈까스		    031-759-0982	경기 성남시 수정구 복정로 43-->

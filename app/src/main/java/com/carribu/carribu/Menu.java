@@ -255,54 +255,99 @@ public class Menu extends AppCompatActivity {
 
             case 3://일식
                 card[0].setImage(R.mipmap.ic_launcher);
-                card[0].setName("스타동");
-                card[0].setMobile("031-757-5922");
-                card[0].setStore("경기 성남시 수정구 복정로 45 1층");
+                card[0].setName(getString(R.string.japenesF_name0));
+                card[0].setMobile(getString(R.string.japenesF_moblie0));
+                card[0].setStore(getString(R.string.japenesF_store0));
 
                 card[1].setImage(R.mipmap.ic_launcher);
-                card[1].setName("겐코 덮밥 라멘집");
-                card[1].setMobile("031-752-2527");
-                card[1].setStore("경기 성남시 수정구 복정로 18 1층");
+                card[1].setName(getString(R.string.japenesF_name1));
+                card[1].setMobile(getString(R.string.japenesF_moblie1));
+                card[1].setStore(getString(R.string.japenesF_store1));
 
                 card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("도모다찌 오코노미야끼");
-                card[2].setMobile("031-752-7955");
-                card[2].setStore("경기 성남시 수정구 복정로 29");
+                card[2].setName(getString(R.string.japenesF_name2));
+                card[2].setMobile(getString(R.string.japenesF_moblie2));
+                card[2].setStore(getString(R.string.japenesF_store2));
 
                 card[3].setImage(R.mipmap.ic_launcher);
-                card[3].setName("가츠야");
-                card[3].setMobile("0507-1400-5057");
-                card[3].setStore("경기 성남시 수정구 성남대로1518번길 10");
+                card[3].setName(getString(R.string.japenesF_name3));
+                card[3].setMobile(getString(R.string.japenesF_moblie3));
+                card[3].setStore(getString(R.string.japenesF_store3));
 
                 card[4].setImage(R.mipmap.ic_launcher);
-                card[4].setName("정진욱의 돈까스가게");
-                card[4].setMobile("0507-1318-2859");
-                card[4].setStore("경기 성남시 수정구 복정로106번길 1");
+                card[4].setName(getString(R.string.japenesF_name4));
+                card[4].setMobile(getString(R.string.japenesF_moblie4));
+                card[4].setStore(getString(R.string.japenesF_store4));
 
                 card[5].setImage(R.mipmap.ic_launcher);
-                card[5].setName("카츠선 동서울대본점");
-                card[5].setMobile("0507-1323-5076");
-                card[5].setStore("경기 성남시 수정구 복정로 64 1층 카츠선");
+                card[5].setName(getString(R.string.japenesF_name5));
+                card[5].setMobile(getString(R.string.japenesF_moblie5));
+                card[5].setStore(getString(R.string.japenesF_store5));
 
                 card[6].setImage(R.mipmap.ic_launcher);
-                card[6].setName("회스시");
-                card[6].setMobile("0507-1313-9710");
-                card[6].setStore("경기 성남시 수정구 성남대로1416번길 14");
+                card[6].setName(getString(R.string.japenesF_name6));
+                card[6].setMobile(getString(R.string.japenesF_moblie6));
+                card[6].setStore(getString(R.string.japenesF_store6));
 
                 card[7].setImage(R.mipmap.ic_launcher);
-                card[7].setName("희락돈까스");
-                card[7].setMobile("031-759-0982");
-                card[7].setStore("경기 성남시 수정구 복정로 43");
+                card[7].setName(getString(R.string.japenesF_name7));
+                card[7].setMobile(getString(R.string.japenesF_moblie7));
+                card[7].setStore(getString(R.string.japenesF_store7));
 
                 card[8].setImage(R.mipmap.ic_launcher);
-                card[8].setName(" 포크포크");
-                card[8].setMobile("031-751-3223");
-                card[8].setStore("경기 성남시 수정구 복정로 30");
+                card[8].setName(getString(R.string.japenesF_name8));
+                card[8].setMobile(getString(R.string.japenesF_moblie8));
+                card[8].setStore(getString(R.string.japenesF_store8));
 
                 card[9].setImage(R.mipmap.ic_launcher);
-                card[9].setName("WAMAN 돈까스");
-                card[9].setMobile("031-756-9288");
-                card[9].setStore("경기 성남시 수정구 복정로 53 1층");
+                card[9].setName(getString(R.string.japenesF_name9));
+                card[9].setMobile(getString(R.string.japenesF_moblie9));
+                card[9].setStore(getString(R.string.japenesF_store9));
+
+                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setName(getString(R.string.japenesF_name10));
+                card[10].setMobile(getString(R.string.japenesF_moblie10));
+                card[10].setStore(getString(R.string.japenesF_store10));
+
+                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setName(getString(R.string.japenesF_name11));
+                card[11].setMobile(getString(R.string.japenesF_moblie11));
+                card[11].setStore(getString(R.string.japenesF_store11));
+
+                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setName(getString(R.string.japenesF_name12));
+                card[12].setMobile(getString(R.string.japenesF_moblie12));
+                card[12].setStore(getString(R.string.japenesF_store12));
+
+                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setName(getString(R.string.japenesF_name13));
+                card[13].setMobile(getString(R.string.japenesF_moblie13));
+                card[13].setStore(getString(R.string.japenesF_store13));
+
+                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setName(getString(R.string.japenesF_name14));
+                card[14].setMobile(getString(R.string.japenesF_moblie14));
+                card[14].setStore(getString(R.string.japenesF_store14));
+
+                card[15].setImage(R.mipmap.ic_launcher);
+                card[15].setName(getString(R.string.japenesF_name15));
+                card[15].setMobile(getString(R.string.japenesF_moblie15));
+                card[15].setStore(getString(R.string.japenesF_store15));
+
+                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setName(getString(R.string.japenesF_name16));
+                card[16].setMobile(getString(R.string.japenesF_moblie16));
+                card[16].setStore(getString(R.string.japenesF_store16));
+
+                card[17].setImage(R.mipmap.ic_launcher);
+                card[17].setName(getString(R.string.japenesF_name17));
+                card[17].setMobile(getString(R.string.japenesF_moblie17));
+                card[17].setStore(getString(R.string.japenesF_store17));
+
+                card[18].setImage(R.mipmap.ic_launcher);
+                card[18].setName(getString(R.string.japenesF_name18));
+                card[18].setMobile(getString(R.string.japenesF_moblie18));
+                card[18].setStore(getString(R.string.japenesF_store18));
 
                 break;
 
@@ -596,6 +641,7 @@ public class Menu extends AppCompatActivity {
                 card[16].setName(getString(R.string.beer_name16));
                 card[16].setMobile("번호 없음");
                 card[16].setStore(getString(R.string.beer_store16));
+
 
                 break;
 
