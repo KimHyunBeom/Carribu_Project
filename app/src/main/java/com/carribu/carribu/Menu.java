@@ -17,9 +17,9 @@ public class Menu extends AppCompatActivity {
     private ImageView imageView;
     private TextView textView;
     private int i;
-    private CardActivity[] card = new CardActivity[20];
+    private CardActivity[] card = new CardActivity[21];
     private Integer[] cardIDs = { R.id.store0, R.id.store1, R.id.store2, R.id.store3, R.id.store4, R.id.store5, R.id.store6, R.id.store7, R.id.store8, R.id.store9, R.id.store10, R.id.store11, R.id.store12, R.id.store13, R.id.store14, R.id.store15, R.id.store16, R.id.store17, R.id.store18,
-            R.id.store19, R.id.store20, };
+            R.id.store19, R.id.store20 };
 
 
     @Override
@@ -58,7 +58,6 @@ public class Menu extends AppCompatActivity {
 
         switch (number) {  //각각의 아이템에 따라 어떻게 화면이 바뀔지 swith문으로 나타냄.
             case 0: //  한식
-
                 card[0].setImage(R.mipmap.ic_launcher);
                 card[0].setName("민속식당");
                 card[0].setMobile("031-751-7977");
@@ -112,7 +111,6 @@ public class Menu extends AppCompatActivity {
                 break;
 
             case 1: //중식
-
                 card[0].setImage(R.mipmap.ic_launcher);
                 card[0].setName("홍짜장");
                 card[0].setMobile("031-755-4071");
@@ -166,7 +164,6 @@ public class Menu extends AppCompatActivity {
                 break;
 
             case 2://아시안 양식
-
                 card[0].setImage(R.mipmap.ic_launcher);
                 card[0].setName("테리엔치킨/카페테리 파스타");
                 card[0].setMobile("0507-1412-9060");
@@ -192,12 +189,10 @@ public class Menu extends AppCompatActivity {
                 card[4].setMobile("031-721-5022");
                 card[4].setStore("경기 성남시 수정구 복정로 86");
 
-
                 break;
 
 
             case 3://일식
-
                 card[0].setImage(R.mipmap.ic_launcher);
                 card[0].setName("스타동");
                 card[0].setMobile("031-757-5922");
