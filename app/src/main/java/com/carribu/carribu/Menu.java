@@ -568,77 +568,77 @@ public class Menu extends AppCompatActivity {
 
             case 8:// 편의점 (최신화 완료)
 
-                card[0].setImage(R.drawable.cu_img);
+                card[0].setImage(R.drawable.cu);
                 card[0].setName(getString(R.string.store_name0));
                 card[0].setMobile(getString(R.string.store_moblie0));
                 card[0].setStore(getString(R.string.store_store0));
 
-                card[1].setImage(R.drawable.cu_img);
+                card[1].setImage(R.drawable.cu);
                 card[1].setName(getString(R.string.store_name1));
                 card[1].setMobile("번호 없음");
                 card[1].setStore(getString(R.string.store_store1));
 
-                card[2].setImage(R.drawable.cu_img);
+                card[2].setImage(R.drawable.cu);
                 card[2].setName(getString(R.string.store_name2));
                 card[2].setMobile(getString(R.string.store_moblie2));
                 card[2].setStore(getString(R.string.store_store2));
 
-                card[3].setImage(R.drawable.cu_img);
+                card[3].setImage(R.drawable.cu);
                 card[3].setName(getString(R.string.store_name3));
                 card[3].setMobile(getString(R.string.store_moblie3));
                 card[3].setStore(getString(R.string.store_store3));
 
-                card[4].setImage(R.drawable.cu_img);
+                card[4].setImage(R.drawable.cu);
                 card[4].setName(getString(R.string.store_name4));
                 card[4].setMobile("번호 없음");
                 card[4].setStore(getString(R.string.store_store4));
 
-                card[5].setImage(R.drawable.cu_img);
+                card[5].setImage(R.drawable.cu);
                 card[5].setName(getString(R.string.store_name5));
                 card[5].setMobile(getString(R.string.store_moblie5));
                 card[5].setStore(getString(R.string.store_store5));
 
-                card[6].setImage(R.drawable.cu_img);
+                card[6].setImage(R.drawable.cu);
                 card[6].setName(getString(R.string.store_name6));
                 card[6].setMobile(getString(R.string.store_moblie6));
                 card[6].setStore(getString(R.string.store_store6));
 
-                card[7].setImage(R.drawable.seven_eleven_img);
+                card[7].setImage(R.drawable.eleven);
                 card[7].setName(getString(R.string.store_name7));
                 card[7].setMobile("번호 없음");
                 card[7].setStore(getString(R.string.store_store7));
 
-                card[8].setImage(R.drawable.seven_eleven_img);
+                card[8].setImage(R.drawable.eleven);
                 card[8].setName(getString(R.string.store_name8));
                 card[8].setMobile(getString(R.string.store_moblie8));
                 card[8].setStore(getString(R.string.store_store8));
 
-                card[9].setImage(R.drawable.seven_eleven_img);
+                card[9].setImage(R.drawable.eleven);
                 card[9].setName(getString(R.string.store_name9));
                 card[9].setMobile("번호 없음");
                 card[9].setStore(getString(R.string.store_store9));
 
-                card[10].setImage(R.drawable.seven_eleven_img);
+                card[10].setImage(R.drawable.eleven);
                 card[10].setName(getString(R.string.store_name10));
                 card[10].setMobile(getString(R.string.store_moblie10));
                 card[10].setStore(getString(R.string.store_store10));
 
-                card[11].setImage(R.drawable.gs25_img);
+                card[11].setImage(R.drawable.gs25);
                 card[11].setName(getString(R.string.store_name11));
                 card[11].setMobile(getString(R.string.store_moblie11));
                 card[11].setStore(getString(R.string.store_store11));
 
-                card[12].setImage(R.drawable.gs25_img);
+                card[12].setImage(R.drawable.gs25);
                 card[12].setName(getString(R.string.store_name12));
                 card[12].setMobile(getString(R.string.store_moblie12));
                 card[12].setStore(getString(R.string.store_store12));
 
-                card[13].setImage(R.drawable.gs25_img);
+                card[13].setImage(R.drawable.gs25);
                 card[13].setName(getString(R.string.store_name13));
                 card[13].setMobile(getString(R.string.store_moblie13));
                 card[13].setStore(getString(R.string.store_store13));
 
-                card[14].setImage(R.drawable.gs25_img);
+                card[14].setImage(R.drawable.gs25);
                 card[14].setName(getString(R.string.store_name14));
                 card[14].setMobile(getString(R.string.store_moblie14));
                 card[14].setStore(getString(R.string.store_store14));
