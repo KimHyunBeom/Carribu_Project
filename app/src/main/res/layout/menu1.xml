@@ -66,6 +66,61 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.carribu.carribu.CardActivity
+            android:id="@+id/store20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
     </LinearLayout>
 
 </ScrollView>
