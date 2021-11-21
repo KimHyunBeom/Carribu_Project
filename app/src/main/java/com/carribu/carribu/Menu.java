@@ -60,54 +60,104 @@ public class Menu extends AppCompatActivity {
         switch (number) {  //각각의 아이템에 따라 어떻게 화면이 바뀔지 swith문으로 나타냄.
             case 0: //  한식
                 card[0].setImage(R.mipmap.ic_launcher);
-                card[0].setName("민속식당");
-                card[0].setMobile("031-751-7977");
-                card[0].setStore("경기 성남시 수정구 복정로 28");
+                card[0].setName(getString(R.string.hanshigdag_name0));
+                card[0].setMobile(getString(R.string.hanshigdag_moblie0));
+                card[0].setStore(getString(R.string.hanshigdag_store0));
 
                 card[1].setImage(R.mipmap.ic_launcher);
-                card[1].setName("알촌");
-                card[1].setMobile("070-7768-0598");
-                card[1].setStore("경기 성남시 수정구 복정로 20");
+                card[1].setName(getString(R.string.hanshigdag_name1));
+                card[1].setMobile(getString(R.string.hanshigdag_moblie1));
+                card[1].setStore(getString(R.string.hanshigdag_store1));
 
                 card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("육마니 한방보쌈");
-                card[2].setMobile("031-752-1972");
-                card[2].setStore("경기 성남시 수정구 복정로20번길 1");
+                card[2].setName(getString(R.string.hanshigdag_name2));
+                card[2].setMobile(getString(R.string.hanshigdag_moblie2));
+                card[2].setStore(getString(R.string.hanshigdag_store2));
 
                 card[3].setImage(R.mipmap.ic_launcher);
-                card[3].setName("국대오리");
-                card[3].setMobile("031-756-5289");
-                card[3].setStore("경기 성남시 수정구 복정로 23"); //주소 겹칩
+                card[3].setName(getString(R.string.hanshigdag_name3));
+                card[3].setMobile(getString(R.string.hanshigdag_moblie3));
+                card[3].setStore(getString(R.string.hanshigdag_store3));
 
                 card[4].setImage(R.mipmap.ic_launcher);
-                card[4].setName("돈돈이네");
-                card[4].setMobile("031-756-9282");
-                card[4].setStore("경기 성남시 수정구 복정로 23"); //주소 겹칩
+                card[4].setName(getString(R.string.hanshigdag_name4));
+                card[4].setMobile(getString(R.string.hanshigdag_moblie4));
+                card[4].setStore(getString(R.string.hanshigdag_store4));
 
                 card[5].setImage(R.mipmap.ic_launcher);
-                card[5].setName("다정 한식뷔페");
-                card[5].setMobile("031-757-6552");
-                card[5].setStore("경기 성남시 수정구 복정로 45");
+                card[5].setName(getString(R.string.hanshigdag_name5));
+                card[5].setMobile(getString(R.string.hanshigdag_moblie5));
+                card[5].setStore(getString(R.string.hanshigdag_store5));
 
                 card[6].setImage(R.mipmap.ic_launcher);
-                card[6].setName("백채 김치찌개");
-                card[6].setMobile("031-722-5690");
-                card[6].setStore("경기 성남시 수정구 복정로 88");
+                card[6].setName(getString(R.string.hanshigdag_name6));
+                card[6].setMobile(getString(R.string.hanshigdag_moblie6));
+                card[6].setStore(getString(R.string.hanshigdag_store6));
 
                 card[7].setImage(R.mipmap.ic_launcher);
-                card[7].setName("8257 의정부 부대찌개");
-                card[7].setMobile("031-758-8939");
-                card[7].setStore("경기 성남시 수정구 복정로 45");
+                card[7].setName(getString(R.string.hanshigdag_name7));
+                card[7].setMobile(getString(R.string.hanshigdag_moblie7));
+                card[7].setStore(getString(R.string.hanshigdag_store7));
 
                 card[8].setImage(R.mipmap.ic_launcher);
-                card[8].setName("할매순대국 동서울대점");
-                card[8].setMobile("031-758-6637");
-                card[8].setStore("경기 성남시 수정구 복정로 92-1");
+                card[8].setName(getString(R.string.hanshigdag_name8));
+                card[8].setMobile(getString(R.string.hanshigdag_moblie8));
+                card[8].setStore(getString(R.string.hanshigdag_store8));
 
                 card[9].setImage(R.mipmap.ic_launcher);
-                card[9].setName("전통할매순대국 복정점");
-                card[9].setMobile("031-756-3258");
-                card[9].setStore("경기 성남시 수정구 복정로 64");
+                card[9].setName(getString(R.string.hanshigdag_name9));
+                card[9].setMobile(getString(R.string.hanshigdag_moblie9));
+                card[9].setStore(getString(R.string.hanshigdag_store9));
+
+                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setName(getString(R.string.hanshigdag_name10));
+                card[10].setMobile(getString(R.string.hanshigdag_moblie10));
+                card[10].setStore(getString(R.string.hanshigdag_store10));
+
+                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setName(getString(R.string.hanshigdag_name11));
+                card[11].setMobile(getString(R.string.hanshigdag_moblie11));
+                card[11].setStore(getString(R.string.hanshigdag_store11));
+
+                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setName(getString(R.string.hanshigdag_name12));
+                card[12].setMobile(getString(R.string.hanshigdag_moblie12));
+                card[12].setStore(getString(R.string.hanshigdag_store12));
+
+                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setName(getString(R.string.hanshigdag_name13));
+                card[13].setMobile(getString(R.string.hanshigdag_moblie13));
+                card[13].setStore(getString(R.string.hanshigdag_store13));
+
+                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setName(getString(R.string.hanshigdag_name14));
+                card[14].setMobile(getString(R.string.hanshigdag_moblie14));
+                card[14].setStore(getString(R.string.hanshigdag_store14));
+
+                card[15].setImage(R.mipmap.ic_launcher);
+                card[15].setName(getString(R.string.hanshigdag_name15));
+                card[15].setMobile(getString(R.string.hanshigdag_moblie15));
+                card[15].setStore(getString(R.string.hanshigdag_store15));
+
+                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setName(getString(R.string.hanshigdag_name16));
+                card[16].setMobile(getString(R.string.hanshigdag_moblie16));
+                card[16].setStore(getString(R.string.hanshigdag_store16));
+
+                card[17].setImage(R.mipmap.ic_launcher);
+                card[17].setName(getString(R.string.hanshigdag_name17));
+                card[17].setMobile(getString(R.string.hanshigdag_moblie17));
+                card[17].setStore(getString(R.string.hanshigdag_store17));
+
+                card[18].setImage(R.mipmap.ic_launcher);
+                card[18].setName(getString(R.string.hanshigdag_name18));
+                card[18].setMobile(getString(R.string.hanshigdag_moblie18));
+                card[18].setStore(getString(R.string.hanshigdag_store18));
+
+                card[19].setImage(R.mipmap.ic_launcher);
+                card[19].setName(getString(R.string.hanshigdag_name19));
+                card[19].setMobile(getString(R.string.hanshigdag_moblie19));
+                card[19].setStore(getString(R.string.hanshigdag_store19));
 
                 break;
 
