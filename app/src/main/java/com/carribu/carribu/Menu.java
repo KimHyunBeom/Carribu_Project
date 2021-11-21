@@ -515,87 +515,84 @@ public class Menu extends AppCompatActivity {
 
             case 7:// 술집
 
-                card[0].setImage(R.mipmap.ic_launcher);
+                card[0].setImage(R.drawable.b_0);
                 card[0].setName(getString(R.string.beer_name0));
                 card[0].setMobile(getString(R.string.beer_moblie0));
                 card[0].setStore(getString(R.string.beer_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.b_1);
                 card[1].setName(getString(R.string.beer_name1));
                 card[1].setMobile(getString(R.string.beer_moblie1));
                 card[1].setStore(getString(R.string.beer_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
+                card[2].setImage(R.drawable.b_2);
                 card[2].setName(getString(R.string.beer_name2));
                 card[2].setMobile(getString(R.string.beer_moblie2));
                 card[2].setStore(getString(R.string.beer_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+                card[3].setImage(R.drawable.b_3);
                 card[3].setName(getString(R.string.beer_name3));
                 card[3].setMobile(getString(R.string.beer_moblie3));
                 card[3].setStore(getString(R.string.beer_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.b_4);
                 card[4].setName(getString(R.string.beer_name4));
                 card[4].setMobile(getString(R.string.beer_moblie4));
                 card[4].setStore(getString(R.string.beer_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
+                card[5].setImage(R.drawable.b_5);
                 card[5].setName(getString(R.string.beer_name5));
                 card[5].setMobile(getString(R.string.beer_moblie5));
                 card[5].setStore(getString(R.string.beer_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.b_6);
                 card[6].setName(getString(R.string.beer_name6));
                 card[6].setMobile(getString(R.string.beer_moblie6));
                 card[6].setStore(getString(R.string.beer_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
+                card[7].setImage(R.drawable.b_7);
                 card[7].setName(getString(R.string.beer_name7));
                 card[7].setMobile(getString(R.string.beer_moblie7));
                 card[7].setStore(getString(R.string.beer_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.b_8);
                 card[8].setName(getString(R.string.beer_name8));
                 card[8].setMobile(getString(R.string.beer_moblie8));
                 card[8].setStore(getString(R.string.beer_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
                 card[9].setName(getString(R.string.beer_name9));
                 card[9].setMobile("번호 없음");
                 card[9].setStore(getString(R.string.beer_store9));
 
-                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setImage(R.drawable.b_10);
                 card[10].setName(getString(R.string.beer_name10));
                 card[10].setMobile(getString(R.string.beer_moblie10));
                 card[10].setStore(getString(R.string.beer_store10));
 
-                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setImage(R.drawable.b_11);
                 card[11].setName(getString(R.string.beer_name11));
                 card[11].setMobile(getString(R.string.beer_moblie11));
                 card[11].setStore(getString(R.string.beer_store11));
 
-                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setImage(R.drawable.b_12);
                 card[12].setName(getString(R.string.beer_name12));
                 card[12].setMobile("번호 없음");
                 card[12].setStore(getString(R.string.beer_store12));
 
-                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setImage(R.drawable.b_13);
                 card[13].setName(getString(R.string.beer_name13));
                 card[13].setMobile(getString(R.string.beer_moblie13));
                 card[13].setStore(getString(R.string.beer_store13));
 
-                card[14].setImage(R.mipmap.ic_launcher);
                 card[14].setName(getString(R.string.beer_name14));
                 card[14].setMobile(getString(R.string.beer_moblie14));
                 card[14].setStore(getString(R.string.beer_store14));
 
-                card[15].setImage(R.mipmap.ic_launcher);
                 card[15].setName(getString(R.string.beer_name15));
                 card[15].setMobile(getString(R.string.beer_moblie15));
                 card[15].setStore(getString(R.string.beer_store15));
 
-                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setImage(R.drawable.b_16);
                 card[16].setName(getString(R.string.beer_name16));
                 card[16].setMobile("번호 없음");
                 card[16].setStore(getString(R.string.beer_store16));
