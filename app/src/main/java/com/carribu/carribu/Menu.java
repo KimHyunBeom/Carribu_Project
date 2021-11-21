@@ -58,7 +58,7 @@ public class Menu extends AppCompatActivity {
         number = intent.getIntExtra("number", -1); //MainAdapter에서 전달된 데이터를 받음.
 
         switch (number) {  //각각의 아이템에 따라 어떻게 화면이 바뀔지 swith문으로 나타냄.
-            case 0: //  한식
+            case 0: //  한식 (최신화 완료)
                 card[0].setImage(R.mipmap.ic_launcher);
                 card[0].setName(getString(R.string.hanshigdag_name0));
                 card[0].setMobile(getString(R.string.hanshigdag_moblie0));
@@ -161,7 +161,7 @@ public class Menu extends AppCompatActivity {
 
                 break;
 
-            case 1: //중식
+            case 1: //중국집 (최신화 완료)
                 card[0].setImage(R.mipmap.ic_launcher);
                 card[0].setName(getString(R.string.chineseF_name0));
                 card[0].setMobile(getString(R.string.chineseF_moblie0));
@@ -404,57 +404,112 @@ public class Menu extends AppCompatActivity {
 
 
                 break;
-            case 6://카페 베이커리
+            case 6://카페 베이커리  (최신화 완료)
 
                 card[0].setImage(R.mipmap.ic_launcher);
-                card[0].setName("좋은날");
-                card[0].setMobile("0507-1359-4587");
-                card[0].setStore("경기 성남시 수정구 복정로 71");
+                card[0].setName(getString(R.string.cafe_name0));
+                card[0].setMobile(getString(R.string.cafe_moblie0));
+                card[0].setStore(getString(R.string.cafe_store0));
 
                 card[1].setImage(R.mipmap.ic_launcher);
-                card[1].setName("빽다방");
-                card[1].setMobile("031-753-9399");
-                card[1].setStore("경기 성남시 수정구 복정로72번길 4");
+                card[1].setName(getString(R.string.cafe_name1));
+                card[1].setMobile(getString(R.string.cafe_moblie1));
+                card[1].setStore(getString(R.string.cafe_store1));
 
                 card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("장산다방");
-                card[2].setMobile("031-756-0248");
-                card[2].setStore("경기 성남시 수정구 복정로 67 장산다방 동서울대점");
+                card[2].setName(getString(R.string.cafe_name2));
+                card[2].setMobile(getString(R.string.cafe_moblie2));
+                card[2].setStore(getString(R.string.cafe_store2));
 
                 card[3].setImage(R.mipmap.ic_launcher);
-                card[3].setName("카페 컴퍼");
-                card[3].setMobile("031-759-7655");
-                card[3].setStore("경기 성남시 수정구 복정로 91 쎄븐빌딩 1층");
+                card[3].setName(getString(R.string.cafe_name3));
+                card[3].setMobile(getString(R.string.cafe_moblie3));
+                card[3].setStore(getString(R.string.cafe_store3));
 
                 card[4].setImage(R.mipmap.ic_launcher);
-                card[4].setName("예니네 카페");
-                card[4].setMobile("0507-1395-1112");
-                card[4].setStore("경기 성남시 수정구 복정로 57 1층");
+                card[4].setName(getString(R.string.cafe_name4));
+                card[4].setMobile(getString(R.string.cafe_moblie4));
+                card[4].setStore(getString(R.string.cafe_store4));
 
                 card[5].setImage(R.mipmap.ic_launcher);
-                card[5].setName("카페 1988");
-                card[5].setMobile("0507-1388-2444");
-                card[5].setStore("경기 성남시 수정구 복정로 5 1F");
+                card[5].setName(getString(R.string.cafe_name5));
+                card[5].setMobile(getString(R.string.cafe_moblie5));
+                card[5].setStore(getString(R.string.cafe_store5));
 
                 card[6].setImage(R.mipmap.ic_launcher);
-                card[6].setName("오르막커피");
-                card[6].setMobile("0507-1325-5552");
-                card[6].setStore("경기 성남시 수정구 복정로 5-1");
+                card[6].setName(getString(R.string.cafe_name6));
+                card[6].setMobile(getString(R.string.cafe_moblie6));
+                card[6].setStore(getString(R.string.cafe_store6));
 
                 card[7].setImage(R.mipmap.ic_launcher);
-                card[7].setName("이디야커피");
-                card[7].setMobile("031-755-2575");
-                card[7].setStore("경기 성남시 수정구 복정로 121");
+                card[7].setName(getString(R.string.cafe_name7));
+                card[7].setMobile(getString(R.string.cafe_moblie7));
+                card[7].setStore(getString(R.string.cafe_store7));
 
                 card[8].setImage(R.mipmap.ic_launcher);
-                card[8].setName("이디야커피 동서울대점");
-                card[8].setMobile("031-757-7523");
-                card[8].setStore("경기 성남시 수정구 복정로 68");
+                card[8].setName(getString(R.string.cafe_name8));
+                card[8].setMobile(getString(R.string.cafe_moblie8));
+                card[8].setStore(getString(R.string.cafe_store8));
 
                 card[9].setImage(R.mipmap.ic_launcher);
-                card[9].setName("몬스타커피(도서관건물1층)");
-                card[9].setMobile("070-4200-0133");
-                card[9].setStore("경기 성남시 수정구 복정로 76");
+                card[9].setName(getString(R.string.cafe_name9));
+                card[9].setMobile(getString(R.string.cafe_moblie9));
+                card[9].setStore(getString(R.string.cafe_store9));
+
+                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setName(getString(R.string.cafe_name10));
+                card[10].setMobile(getString(R.string.cafe_moblie10));
+                card[10].setStore(getString(R.string.cafe_store10));
+
+                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setName(getString(R.string.cafe_name11));
+                card[11].setMobile(getString(R.string.cafe_moblie11));
+                card[11].setStore(getString(R.string.cafe_store11));
+
+                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setName(getString(R.string.cafe_name12));
+                card[12].setMobile(getString(R.string.cafe_moblie12));
+                card[12].setStore(getString(R.string.cafe_store12));
+
+                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setName(getString(R.string.cafe_name13));
+                card[13].setMobile(getString(R.string.cafe_moblie13));
+                card[13].setStore(getString(R.string.cafe_store13));
+
+                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setName(getString(R.string.cafe_name14));
+                card[14].setMobile(getString(R.string.cafe_moblie14));
+                card[14].setStore(getString(R.string.cafe_store14));
+
+                card[15].setImage(R.mipmap.ic_launcher);
+                card[15].setName(getString(R.string.cafe_name15));
+                card[15].setMobile(getString(R.string.cafe_moblie15));
+                card[15].setStore(getString(R.string.cafe_store15));
+
+                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setName(getString(R.string.cafe_name16));
+                card[16].setMobile(getString(R.string.cafe_moblie16));
+                card[16].setStore(getString(R.string.cafe_store16));
+
+                card[17].setImage(R.mipmap.ic_launcher);
+                card[17].setName(getString(R.string.cafe_name17));
+                card[17].setMobile(getString(R.string.cafe_moblie17));
+                card[17].setStore(getString(R.string.cafe_store17));
+
+                card[18].setImage(R.mipmap.ic_launcher);
+                card[18].setName(getString(R.string.cafe_name18));
+                card[18].setMobile(getString(R.string.cafe_moblie18));
+                card[18].setStore(getString(R.string.cafe_store18));
+
+                card[19].setImage(R.mipmap.ic_launcher);
+                card[19].setName(getString(R.string.cafe_name19));
+                card[19].setMobile(getString(R.string.cafe_moblie19));
+                card[19].setStore(getString(R.string.cafe_store19));
+
+                card[20].setImage(R.mipmap.ic_launcher);
+                card[20].setName(getString(R.string.cafe_name20));
+                card[20].setMobile(getString(R.string.cafe_moblie20));
+                card[20].setStore(getString(R.string.cafe_store20));
 
                 break;
 
@@ -511,79 +566,79 @@ public class Menu extends AppCompatActivity {
                 card[8].setStore("경기 성남시 수정구 복정로 89");
                 break;
 
-            case 8:// 편의점
+            case 8:// 편의점 (최신화 완료)
 
-                card[0].setImage(R.mipmap.ic_launcher);
+                card[0].setImage(R.drawable.cu_img);
                 card[0].setName(getString(R.string.store_name0));
                 card[0].setMobile(getString(R.string.store_moblie0));
                 card[0].setStore(getString(R.string.store_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.cu_img);
                 card[1].setName(getString(R.string.store_name1));
                 card[1].setMobile("번호 없음");
                 card[1].setStore(getString(R.string.store_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
+                card[2].setImage(R.drawable.cu_img);
                 card[2].setName(getString(R.string.store_name2));
                 card[2].setMobile(getString(R.string.store_moblie2));
                 card[2].setStore(getString(R.string.store_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+                card[3].setImage(R.drawable.cu_img);
                 card[3].setName(getString(R.string.store_name3));
                 card[3].setMobile(getString(R.string.store_moblie3));
                 card[3].setStore(getString(R.string.store_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.cu_img);
                 card[4].setName(getString(R.string.store_name4));
                 card[4].setMobile("번호 없음");
                 card[4].setStore(getString(R.string.store_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
+                card[5].setImage(R.drawable.cu_img);
                 card[5].setName(getString(R.string.store_name5));
                 card[5].setMobile(getString(R.string.store_moblie5));
                 card[5].setStore(getString(R.string.store_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.cu_img);
                 card[6].setName(getString(R.string.store_name6));
                 card[6].setMobile(getString(R.string.store_moblie6));
                 card[6].setStore(getString(R.string.store_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
+                card[7].setImage(R.drawable.seven_eleven_img);
                 card[7].setName(getString(R.string.store_name7));
                 card[7].setMobile("번호 없음");
                 card[7].setStore(getString(R.string.store_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.seven_eleven_img);
                 card[8].setName(getString(R.string.store_name8));
                 card[8].setMobile(getString(R.string.store_moblie8));
                 card[8].setStore(getString(R.string.store_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
+                card[9].setImage(R.drawable.seven_eleven_img);
                 card[9].setName(getString(R.string.store_name9));
                 card[9].setMobile("번호 없음");
                 card[9].setStore(getString(R.string.store_store9));
 
-                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setImage(R.drawable.seven_eleven_img);
                 card[10].setName(getString(R.string.store_name10));
                 card[10].setMobile(getString(R.string.store_moblie10));
                 card[10].setStore(getString(R.string.store_store10));
 
-                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setImage(R.drawable.gs25_img);
                 card[11].setName(getString(R.string.store_name11));
                 card[11].setMobile(getString(R.string.store_moblie11));
                 card[11].setStore(getString(R.string.store_store11));
 
-                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setImage(R.drawable.gs25_img);
                 card[12].setName(getString(R.string.store_name12));
                 card[12].setMobile(getString(R.string.store_moblie12));
                 card[12].setStore(getString(R.string.store_store12));
 
-                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setImage(R.drawable.gs25_img);
                 card[13].setName(getString(R.string.store_name13));
                 card[13].setMobile(getString(R.string.store_moblie13));
                 card[13].setStore(getString(R.string.store_store13));
 
-                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setImage(R.drawable.gs25_img);
                 card[14].setName(getString(R.string.store_name14));
                 card[14].setMobile(getString(R.string.store_moblie14));
                 card[14].setStore(getString(R.string.store_store14));

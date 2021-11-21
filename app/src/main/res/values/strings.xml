@@ -114,6 +114,76 @@
     <string name="chineseF_store11">경기 성남시 수정구 복정로 90 1층</string>
 <!--    /중국집>-->
 
+<!--    카페-->
+    <!--카페 이름-->
+    <string name="cafe_name0">좋은날</string>
+    <string name="cafe_name1">빽다방</string>
+    <string name="cafe_name2">장산다방</string>
+    <string name="cafe_name3">카페 컴퍼</string>
+    <string name="cafe_name4">예니네 카페</string>
+    <string name="cafe_name5">조이플커피</string>
+    <string name="cafe_name6">MIDJULY 카페</string>
+    <string name="cafe_name7">복정동커피집</string>
+    <string name="cafe_name8">이디야커피 성남복정도서관점</string>
+    <string name="cafe_name9">이디야커피 동서울대점</string>
+    <string name="cafe_name10">글래머 커피</string>
+    <string name="cafe_name11">카페디토</string>
+    <string name="cafe_name12">코페아커피 복정점</string>
+    <string name="cafe_name13">푸른달열사흘</string>
+    <string name="cafe_name14">구럼비</string>
+    <string name="cafe_name15">카페 아메아메</string>
+    <string name="cafe_name16">카페 1988</string>
+    <string name="cafe_name17">오르막커피</string>
+    <string name="cafe_name18">모퉁</string>
+    <string name="cafe_name19">몬스타커피(학교내부)</string>
+    <string name="cafe_name20">오헤브스튜디오카페</string>
+    <!--카페 번호-->
+    <string name="cafe_moblie0">0507-1359-4587</string>
+    <string name="cafe_moblie1">031-759-2929</string>
+    <string name="cafe_moblie2">031-756-0248</string>
+    <string name="cafe_moblie3">031-759-7655</string>
+    <string name="cafe_moblie4">0507-1395-1112</string>
+    <string name="cafe_moblie5">0507-1344-2123</string>
+    <string name="cafe_moblie6">031-754-2243 </string>
+    <string name="cafe_moblie7">0507-1422-6501</string>
+    <string name="cafe_moblie8">031-755-2575</string>
+    <string name="cafe_moblie9">031-757-7523</string>
+    <string name="cafe_moblie10">070-4130-1982</string>
+    <string name="cafe_moblie11">0507-1391-6741</string>
+    <string name="cafe_moblie12">031-778-8312</string>
+    <string name="cafe_moblie13">010-9702-7926</string>
+    <string name="cafe_moblie14">070-8801-9977</string>
+    <string name="cafe_moblie15">031-755-6131</string>
+    <string name="cafe_moblie16">0507-1388-2444</string>
+    <string name="cafe_moblie17">0507-1325-5552</string>
+    <string name="cafe_moblie18">070-8807-2015</string>
+    <string name="cafe_moblie19">070-4200-0133</string>
+    <string name="cafe_moblie20">031-1599-5548</string>
+    <!--카페 주소-->
+    <string name="cafe_store0">경기 성남시 수정구 복정로 71</string>
+    <string name="cafe_store1">경기 성남시 수정구 복정로72번길 4</string>
+    <string name="cafe_store2">경기 성남시 수정구 복정로 67 장산다방 동서울대점</string>
+    <string name="cafe_store3">경기 성남시 수정구 복정로 91 쎄븐빌딩 1층</string>
+    <string name="cafe_store4">경기 성남시 수정구 복정로 57 1층</string>
+    <string name="cafe_store5">경기 성남시 수정구 복정로20번길 3</string>
+    <string name="cafe_store6">경기 성남시 수정구 복정로 115</string>
+    <string name="cafe_store7">경기 성남시 수정구 복정로118번길 5-12</string>
+    <string name="cafe_store8">경기 성남시 수정구 복정로 121</string>
+    <string name="cafe_store9">경기 성남시 수정구 복정로 68</string>
+    <string name="cafe_store10">경기 성남시 수정구 복정로 116-1</string>
+    <string name="cafe_store11">경기 성남시 수정구 복정로 97 1층</string>
+    <string name="cafe_store12">경기 성남시 수정구 복정로 65 1층</string>
+    <string name="cafe_store13">경기 성남시 수정구 복정로20번길 18</string>
+    <string name="cafe_store14">경기 성남시 수정구 복정로20번길 15-6 101호</string>
+    <string name="cafe_store15">경기 성남시 수정구 복정로 18 1층</string>
+    <string name="cafe_store16">경기 성남시 수정구 복정로 5 1F</string>
+    <string name="cafe_store17">경기 성남시 수정구 복정로 5-1</string>
+    <string name="cafe_store18">경기 성남시 수정구 성남대로1380번길 7</string>
+    <string name="cafe_store19">경기 성남시 수정구 복정로 76</string>
+    <string name="cafe_store20">경기 성남시 수정구 성남대로 1526</string>
+<!--    /카페-->
+
+
 <!--    편의점-->
     <!--편의점 이름-->
     <string name="store_name0">CU 복정하나점</string>
@@ -205,6 +275,30 @@
 <!--09 장원각			    031-625-0072	경기 성남시 수정구 복정로20번길 1-->
 <!--10 금성반점			    031-751-7979	경기 성남시 수정구 성남대로1390번길 10-->
 <!--11 북경성반점		        031-722-3255	경기 성남시 수정구 복정로 90 1층-->
+
+
+<!--    <카페>-->
+<!--0  좋은날			        0507-1359-4587	경기 성남시 수정구 복정로 71-->
+<!--1  빽다방			        031-759-2929	경기 성남시 수정구 복정로72번길 4-->
+<!--2  장산다방			        031-756-0248	경기 성남시 수정구 복정로 67 장산다방 동서울대점-->
+<!--3  카페 컴퍼		            031-759-7655 	경기 성남시 수정구 복정로 91 쎄븐빌딩 1층-->
+<!--4  예니네 카페		        0507-1395-1112	경기 성남시 수정구 복정로 57 1층-->
+<!--5  조이플커피		            0507-1344-2123	경기 성남시 수정구 복정로20번길 3-->
+<!--6  MIDJULY 카페 		        031-754-2243 	경기 성남시 수정구 복정로 115-->
+<!--7  복정동커피집		        0507-1422-6501	경기 성남시 수정구 복정로118번길 5-12-->
+<!--8  이디야커피 성남복정도서관점	031-755-2575	경기 성남시 수정구 복정로 121-->
+<!--9  이디야커피 동서울대점	    031-757-7523	경기 성남시 수정구 복정로 68-->
+<!--10 글래머 커피		        070-4130-1982	경기 성남시 수정구 복정로 116-1-->
+<!--11 카페디토			        0507-1391-6741	경기 성남시 수정구 복정로 97 1층-->
+<!--12 코페아커피 복정점		    031-778-8312	경기 성남시 수정구 복정로 65 1층-->
+<!--13 푸른달열사흘		        010-9702-7926	경기 성남시 수정구 복정로20번길 18-->
+<!--14 구럼비			        070-8801-9977	경기 성남시 수정구 복정로20번길 15-6 101호-->
+<!--15 카페 아메아메		        031-755-6131	경기 성남시 수정구 복정로 18 1층-->
+<!--16 카페 1988		            0507-1388-2444	경기 성남시 수정구 복정로 5 1F-->
+<!--17 오르막커피		            0507-1325-5552	경기 성남시 수정구 복정로 5-1-->
+<!--18 모퉁			            070-8807-2015	경기 성남시 수정구 성남대로1380번길 7-->
+<!--19 몬스타커피(학교내부)	    070-4200-0133	경기 성남시 수정구 복정로 76-->
+<!--20 오헤브스튜디오카페	        031-1599-5548 	경기 성남시 수정구 성남대로 1526-->
 
 <!--    <CU 편의점>-->
 <!--    0 CU 복정하나점			031-753-9809	경기 성남시 수정구 복정로 135 미보빌딩-->
