@@ -6,4 +6,78 @@
     <string name="tab_title1">맛집</string>
     <string name="tab_title2">즐겨찾기</string>
     <string name="tab_title3">설정</string>
+    <!--편의점 이름-->
+    <string name="store_name0">CU 복정하나점</string>
+    <string name="store_name1">CU 복정빌리지점</string>
+    <string name="store_name2">CU 복정원룸점</string>
+    <string name="store_name3">CU 동서울대도서관점</string>
+    <string name="store_name4">CU 성남복정프리미엄점</string>
+    <string name="store_name5">CU 성남복정점</string>
+    <string name="store_name6">CU 복정으뜸점</string>
+
+    <string name="store_name7">세븐일레븐 성남복정국제점</string>
+    <string name="store_name8">세븐일레븐 복정라이브러리점</string>
+    <string name="store_name9">세븐일레븐 성남동서울대점</string>
+    <string name="store_name10">세븐일레븐 성남복정중앙점</string>
+
+    <string name="store_name11">GS25 복정도서관점</string>
+    <string name="store_name12">GS25 동서울대점</string>
+    <string name="store_name13">GS25 복정제일점</string>
+    <string name="store_name14">GS25 복정미소점</string>
+    <!--편의점 번호-->
+    <string name="store_moblie0">031-753-9809</string>
+    <string name="store_moblie2">031-723-6315</string>
+    <string name="store_moblie3">02-3397-6252</string>
+    <string name="store_moblie5">031-755-3690</string>
+    <string name="store_moblie6">031-754-7270</string>
+
+    <string name="store_moblie8">031-759-0438</string>
+    <string name="store_moblie10">031-721-8509</string>
+
+    <string name="store_moblie11">031-723-0040</string>
+    <string name="store_moblie12">031-754-8960</string>
+    <string name="store_moblie13">031-721-1666</string>
+    <string name="store_moblie14">031-758-3933</string>
+    <!--편의점 주소-->
+    <string name="store_store0">경기 성남시 수정구 복정로 135 미보빌딩</string>
+    <string name="store_store1">경기 성남시 수정구 복정로134번길 22-10 - 10</string>
+    <string name="store_store2">경기 성남시 수정구 복정로96번길 18</string>
+    <string name="store_store3">경기 성남시 수정구 복정로 76 동서울대학교 학산도서관</string>
+    <string name="store_store4">경기 성남시 수정구 복정로 67</string>
+    <string name="store_store5">경기 성남시 수정구 복정로32번길 1</string>
+    <string name="store_store6">경기 성남시 수정구 성남대로1390번길 25-2</string>
+
+    <string name="store_store7">경기 성남시 수정구 복정로134번길 12</string>
+    <string name="store_store8">경기 성남시 수정구 복정로118번길 1</string>
+    <string name="store_store9">경기 성남시 수정구 복정로 95</string>
+    <string name="store_store10">경기 성남시 수정구 복정로 58</string>
+
+    <string name="store_store11">경기 성남시 수정구 복정로118번길 10 1층</string>
+    <string name="store_store12">경기 성남시 수정구 복정로72번길 4</string>
+    <string name="store_store13">경기 성남시 수정구 복정로 10-1</string>
+    <string name="store_store14">경기 성남시 수정구 복정로20번길 20-12</string>
+
 </resources>
+
+
+
+<!--    <CU 편의점>-->
+<!--    0 CU 복정하나점			031-753-9809	경기 성남시 수정구 복정로 135 미보빌딩-->
+<!--    1 CU 복정빌리지점			    		    경기 성남시 수정구 복정로134번길 22-10 - 10-->
+<!--    2 CU 복정원룸점			031-723-6315	경기 성남시 수정구 복정로96번길 18-->
+<!--    3 CU 동서울대도서관점	    02-3397-6252	경기 성남시 수정구 복정로 76 동서울대학교 학산도서관-->
+<!--    4 CU 성남복정프리미엄점				    경기 성남시 수정구 복정로 67-->
+<!--    5 CU 성남복정점			031-755-3690	경기 성남시 수정구 복정로32번길 1-->
+<!--    6 CU 복정으뜸점			031-754-7270	경기 성남시 수정구 성남대로1390번길 25-2-->
+
+<!--    <세븐일레븐>-->
+<!--    7 세븐일레븐 성남복정국제점				        경기 성남시 수정구 복정로134번길 12-->
+<!--    8 세븐일레븐 복정라이브러리점    031-759-0438	경기 성남시 수정구 복정로118번길 1 // 여기까지 입력했음-->
+<!--    9 세븐일레븐 성남동서울대점				        경기 성남시 수정구 복정로 95-->
+<!--    10세븐일레븐 성남복정중앙점		031-721-8509	경기 성남시 수정구 복정로 58-->
+
+<!--    <GS25>-->
+<!--    11   GS25 복정도서관점		031-723-0040	경기 성남시 수정구 복정로118번길 10 1층-->
+<!--    12   GS25 동서울대점			031-754-8960	경기 성남시 수정구 복정로72번길 4-->
+<!--    13   GS25 복정제일점			031-721-1666	경기 성남시 수정구 복정로 10-1-->
+<!--    14   GS25 복정미소점			031-758-3933	경기 성남시 수정구 복정로20번길 20-12-->
