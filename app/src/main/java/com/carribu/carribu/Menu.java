@@ -59,102 +59,102 @@ public class Menu extends AppCompatActivity {
 
         switch (number) {  //각각의 아이템에 따라 어떻게 화면이 바뀔지 swith문으로 나타냄.
             case 0: //  한식 (최신화 완료)
-                card[0].setImage(R.mipmap.ic_launcher);
+
                 card[0].setName(getString(R.string.hanshigdag_name0));
                 card[0].setMobile(getString(R.string.hanshigdag_moblie0));
                 card[0].setStore(getString(R.string.hanshigdag_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.h_1);
                 card[1].setName(getString(R.string.hanshigdag_name1));
                 card[1].setMobile(getString(R.string.hanshigdag_moblie1));
                 card[1].setStore(getString(R.string.hanshigdag_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
+
                 card[2].setName(getString(R.string.hanshigdag_name2));
                 card[2].setMobile(getString(R.string.hanshigdag_moblie2));
                 card[2].setStore(getString(R.string.hanshigdag_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+
                 card[3].setName(getString(R.string.hanshigdag_name3));
                 card[3].setMobile(getString(R.string.hanshigdag_moblie3));
                 card[3].setStore(getString(R.string.hanshigdag_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.h_4);
                 card[4].setName(getString(R.string.hanshigdag_name4));
                 card[4].setMobile(getString(R.string.hanshigdag_moblie4));
                 card[4].setStore(getString(R.string.hanshigdag_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
+                card[5].setImage(R.drawable.h_5);
                 card[5].setName(getString(R.string.hanshigdag_name5));
                 card[5].setMobile(getString(R.string.hanshigdag_moblie5));
                 card[5].setStore(getString(R.string.hanshigdag_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.h_6);
                 card[6].setName(getString(R.string.hanshigdag_name6));
                 card[6].setMobile(getString(R.string.hanshigdag_moblie6));
                 card[6].setStore(getString(R.string.hanshigdag_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
+
                 card[7].setName(getString(R.string.hanshigdag_name7));
                 card[7].setMobile(getString(R.string.hanshigdag_moblie7));
                 card[7].setStore(getString(R.string.hanshigdag_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.h_8);
                 card[8].setName(getString(R.string.hanshigdag_name8));
                 card[8].setMobile(getString(R.string.hanshigdag_moblie8));
                 card[8].setStore(getString(R.string.hanshigdag_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
+
                 card[9].setName(getString(R.string.hanshigdag_name9));
                 card[9].setMobile(getString(R.string.hanshigdag_moblie9));
                 card[9].setStore(getString(R.string.hanshigdag_store9));
 
-                card[10].setImage(R.mipmap.ic_launcher);
+
                 card[10].setName(getString(R.string.hanshigdag_name10));
                 card[10].setMobile(getString(R.string.hanshigdag_moblie10));
                 card[10].setStore(getString(R.string.hanshigdag_store10));
 
-                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setImage(R.drawable.h_11);
                 card[11].setName(getString(R.string.hanshigdag_name11));
                 card[11].setMobile(getString(R.string.hanshigdag_moblie11));
                 card[11].setStore(getString(R.string.hanshigdag_store11));
 
-                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setImage(R.drawable.h_12);
                 card[12].setName(getString(R.string.hanshigdag_name12));
                 card[12].setMobile(getString(R.string.hanshigdag_moblie12));
                 card[12].setStore(getString(R.string.hanshigdag_store12));
 
-                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setImage(R.drawable.h_13);
                 card[13].setName(getString(R.string.hanshigdag_name13));
                 card[13].setMobile(getString(R.string.hanshigdag_moblie13));
                 card[13].setStore(getString(R.string.hanshigdag_store13));
 
-                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setImage(R.drawable.h_14);
                 card[14].setName(getString(R.string.hanshigdag_name14));
                 card[14].setMobile(getString(R.string.hanshigdag_moblie14));
                 card[14].setStore(getString(R.string.hanshigdag_store14));
 
-                card[15].setImage(R.mipmap.ic_launcher);
+                card[15].setImage(R.drawable.h_15);
                 card[15].setName(getString(R.string.hanshigdag_name15));
                 card[15].setMobile(getString(R.string.hanshigdag_moblie15));
                 card[15].setStore(getString(R.string.hanshigdag_store15));
 
-                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setImage(R.drawable.h_16);
                 card[16].setName(getString(R.string.hanshigdag_name16));
                 card[16].setMobile(getString(R.string.hanshigdag_moblie16));
                 card[16].setStore(getString(R.string.hanshigdag_store16));
 
-                card[17].setImage(R.mipmap.ic_launcher);
+                card[17].setImage(R.drawable.h_17);
                 card[17].setName(getString(R.string.hanshigdag_name17));
                 card[17].setMobile(getString(R.string.hanshigdag_moblie17));
                 card[17].setStore(getString(R.string.hanshigdag_store17));
 
-                card[18].setImage(R.mipmap.ic_launcher);
+                card[18].setImage(R.drawable.h_18);
                 card[18].setName(getString(R.string.hanshigdag_name18));
                 card[18].setMobile(getString(R.string.hanshigdag_moblie18));
                 card[18].setStore(getString(R.string.hanshigdag_store18));
 
-                card[19].setImage(R.mipmap.ic_launcher);
+                card[19].setImage(R.drawable.h_19);
                 card[19].setName(getString(R.string.hanshigdag_name19));
                 card[19].setMobile(getString(R.string.hanshigdag_moblie19));
                 card[19].setStore(getString(R.string.hanshigdag_store19));
