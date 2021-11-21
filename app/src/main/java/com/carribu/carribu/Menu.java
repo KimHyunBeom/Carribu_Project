@@ -442,110 +442,110 @@ public class Menu extends AppCompatActivity {
                 break;
             case 6://카페 베이커리  (최신화 완료)
 
-                card[0].setImage(R.mipmap.ic_launcher);
+                card[0].setImage(R.drawable.f_0);
                 card[0].setName(getString(R.string.cafe_name0));
                 card[0].setMobile(getString(R.string.cafe_moblie0));
                 card[0].setStore(getString(R.string.cafe_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.f_1);
                 card[1].setName(getString(R.string.cafe_name1));
                 card[1].setMobile(getString(R.string.cafe_moblie1));
                 card[1].setStore(getString(R.string.cafe_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
+                card[2].setImage(R.drawable.f_2);
                 card[2].setName(getString(R.string.cafe_name2));
                 card[2].setMobile(getString(R.string.cafe_moblie2));
                 card[2].setStore(getString(R.string.cafe_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+                card[3].setImage(R.drawable.f_3);
                 card[3].setName(getString(R.string.cafe_name3));
                 card[3].setMobile(getString(R.string.cafe_moblie3));
                 card[3].setStore(getString(R.string.cafe_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.f_4);
                 card[4].setName(getString(R.string.cafe_name4));
                 card[4].setMobile(getString(R.string.cafe_moblie4));
                 card[4].setStore(getString(R.string.cafe_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
+                card[5].setImage(R.drawable.f_5);
                 card[5].setName(getString(R.string.cafe_name5));
                 card[5].setMobile(getString(R.string.cafe_moblie5));
                 card[5].setStore(getString(R.string.cafe_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.f_6);
                 card[6].setName(getString(R.string.cafe_name6));
                 card[6].setMobile(getString(R.string.cafe_moblie6));
                 card[6].setStore(getString(R.string.cafe_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
+                card[7].setImage(R.drawable.f_7);
                 card[7].setName(getString(R.string.cafe_name7));
                 card[7].setMobile(getString(R.string.cafe_moblie7));
                 card[7].setStore(getString(R.string.cafe_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.f_8);
                 card[8].setName(getString(R.string.cafe_name8));
                 card[8].setMobile(getString(R.string.cafe_moblie8));
                 card[8].setStore(getString(R.string.cafe_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
+                card[9].setImage(R.drawable.f_9);
                 card[9].setName(getString(R.string.cafe_name9));
                 card[9].setMobile(getString(R.string.cafe_moblie9));
                 card[9].setStore(getString(R.string.cafe_store9));
 
-                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setImage(R.drawable.f_10);
                 card[10].setName(getString(R.string.cafe_name10));
                 card[10].setMobile(getString(R.string.cafe_moblie10));
                 card[10].setStore(getString(R.string.cafe_store10));
 
-                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setImage(R.drawable.f_11);
                 card[11].setName(getString(R.string.cafe_name11));
                 card[11].setMobile(getString(R.string.cafe_moblie11));
                 card[11].setStore(getString(R.string.cafe_store11));
 
-                card[12].setImage(R.mipmap.ic_launcher);
+                card[12].setImage(R.drawable.f_12);
                 card[12].setName(getString(R.string.cafe_name12));
                 card[12].setMobile(getString(R.string.cafe_moblie12));
                 card[12].setStore(getString(R.string.cafe_store12));
 
-                card[13].setImage(R.mipmap.ic_launcher);
+                card[13].setImage(R.drawable.f_13);
                 card[13].setName(getString(R.string.cafe_name13));
                 card[13].setMobile(getString(R.string.cafe_moblie13));
                 card[13].setStore(getString(R.string.cafe_store13));
 
-                card[14].setImage(R.mipmap.ic_launcher);
+                card[14].setImage(R.drawable.f_14);
                 card[14].setName(getString(R.string.cafe_name14));
                 card[14].setMobile(getString(R.string.cafe_moblie14));
                 card[14].setStore(getString(R.string.cafe_store14));
 
-                card[15].setImage(R.mipmap.ic_launcher);
+                card[15].setImage(R.drawable.f_15);
                 card[15].setName(getString(R.string.cafe_name15));
                 card[15].setMobile(getString(R.string.cafe_moblie15));
                 card[15].setStore(getString(R.string.cafe_store15));
 
-                card[16].setImage(R.mipmap.ic_launcher);
+                card[16].setImage(R.drawable.f_16);
                 card[16].setName(getString(R.string.cafe_name16));
                 card[16].setMobile(getString(R.string.cafe_moblie16));
                 card[16].setStore(getString(R.string.cafe_store16));
 
-                card[17].setImage(R.mipmap.ic_launcher);
+                card[17].setImage(R.drawable.f_17);
                 card[17].setName(getString(R.string.cafe_name17));
                 card[17].setMobile(getString(R.string.cafe_moblie17));
                 card[17].setStore(getString(R.string.cafe_store17));
 
-                card[18].setImage(R.mipmap.ic_launcher);
+                card[18].setImage(R.drawable.f_18);
                 card[18].setName(getString(R.string.cafe_name18));
                 card[18].setMobile(getString(R.string.cafe_moblie18));
                 card[18].setStore(getString(R.string.cafe_store18));
 
-                card[19].setImage(R.mipmap.ic_launcher);
+                card[19].setImage(R.drawable.f_19);
                 card[19].setName(getString(R.string.cafe_name19));
                 card[19].setMobile(getString(R.string.cafe_moblie19));
                 card[19].setStore(getString(R.string.cafe_store19));
 
-                card[20].setImage(R.mipmap.ic_launcher);
                 card[20].setName(getString(R.string.cafe_name20));
                 card[20].setMobile(getString(R.string.cafe_moblie20));
                 card[20].setStore(getString(R.string.cafe_store20));
+
 
                 break;
 
