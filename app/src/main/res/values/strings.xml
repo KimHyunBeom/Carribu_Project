@@ -6,17 +6,19 @@
     <string name="tab_title1">맛집</string>
     <string name="tab_title2">즐겨찾기</string>
     <string name="tab_title3">설정</string>
+
+<!--    한식-->
     <!--한식당 이름-->
-    <string name="hanshigdag_name0" >민속식당</string>
-    <string name="hanshigdag_name1" >알촌</string>
-    <string name="hanshigdag_name2" >육마니 한방보쌈</string>
-    <string name="hanshigdag_name3" >국대오리</string>
-    <string name="hanshigdag_name4" >돈돈이네</string>
-    <string name="hanshigdag_name5" >다정 한식뷔페</string>
-    <string name="hanshigdag_name6" >백채 김치찌개</string>
-    <string name="hanshigdag_name7" >257 의정부 부대찌개</string>
-    <string name="hanshigdag_name8" >할매순대국 동서울대점</string>
-    <string name="hanshigdag_name9" >전통할매순대국 복정점</string>
+    <string name="hanshigdag_name0">민속식당</string>
+    <string name="hanshigdag_name1">알촌</string>
+    <string name="hanshigdag_name2">육마니 한방보쌈</string>
+    <string name="hanshigdag_name3">국대오리</string>
+    <string name="hanshigdag_name4">돈돈이네</string>
+    <string name="hanshigdag_name5">다정 한식뷔페</string>
+    <string name="hanshigdag_name6">백채 김치찌개</string>
+    <string name="hanshigdag_name7">257 의정부 부대찌개</string>
+    <string name="hanshigdag_name8">할매순대국 동서울대점</string>
+    <string name="hanshigdag_name9">전통할매순대국 복정점</string>
     <string name="hanshigdag_name10">할매순대국</string>
     <string name="hanshigdag_name11">쌈마을 촌밥</string>
     <string name="hanshigdag_name12">이가네명동찌개마을</string>
@@ -69,6 +71,50 @@
     <string name="hanshigdag_store17">경기 성남시 수정구 복정로42번길 1</string>
     <string name="hanshigdag_store18">경기 성남시 수정구 성남대로1480번길 6 1층</string>
     <string name="hanshigdag_store19">경기 성남시 수정구 성남대로1518번길 8</string>
+<!--    /한식-->
+
+<!--    중국집>-->
+    <!--중국집 이름-->
+    <string name="chineseF_name0">홍짜장</string>
+    <string name="chineseF_name1">황궁</string>
+    <string name="chineseF_name2">만다린</string>
+    <string name="chineseF_name3">참진 해물짬뽕짜장</string>
+    <string name="chineseF_name4">현짜장</string>
+    <string name="chineseF_name5">부자뿅의전설</string>
+    <string name="chineseF_name6">마라킹</string>
+    <string name="chineseF_name7">행복로드마라탕</string>
+    <string name="chineseF_name8">중림</string>
+    <string name="chineseF_name9">장원각</string>
+    <string name="chineseF_name10">금성반점</string>
+    <string name="chineseF_name11">북경성반점</string>
+    <!--중국집 번호-->
+    <string name="chineseF_moblie0">031-755-4071</string>
+    <string name="chineseF_moblie2">031-751-4455</string>
+    <string name="chineseF_moblie3">031-723-8786</string>
+    <string name="chineseF_moblie4">031-721-4775</string>
+    <string name="chineseF_moblie5">031-753-8680</string>
+    <string name="chineseF_moblie6">070-8621-2771</string>
+    <string name="chineseF_moblie7">070-7543-6867</string>
+    <string name="chineseF_moblie8">031-722-4881</string>
+    <string name="chineseF_moblie9">031-625-0072</string>
+    <string name="chineseF_moblie10">031-751-7979</string>
+    <string name="chineseF_moblie11">031-722-3255</string>
+    <!--중국집 주소-->
+    <string name="chineseF_store0">경기 성남시 수정구 복정로 73</string>
+    <string name="chineseF_store1">경기 성남시 수정구 복정로 14</string>
+    <string name="chineseF_store2">경기 성남시 수정구 복정로 58</string>
+    <string name="chineseF_store3">경기 성남시 수정구 복정로 51-1 1층</string>
+    <string name="chineseF_store4">경기 성남시 수정구 복정로 83 1층</string>
+    <string name="chineseF_store5">경기 성남시 수정구 복정로 105</string>
+    <string name="chineseF_store6">경기 성남시 수정구 복정로 92 102호</string>
+    <string name="chineseF_store7">경기 성남시 수정구 복정로 81</string>
+    <string name="chineseF_store8">경기 성남시 수정구 복정로 127-1</string>
+    <string name="chineseF_store9">경기 성남시 수정구 복정로20번길 1</string>
+    <string name="chineseF_store10">경기 성남시 수정구 성남대로1390번길 10</string>
+    <string name="chineseF_store11">경기 성남시 수정구 복정로 90 1층</string>
+<!--    /중국집>-->
+
+<!--    편의점-->
     <!--편의점 이름-->
     <string name="store_name0">CU 복정하나점</string>
     <string name="store_name1">CU 복정빌리지점</string>
@@ -119,7 +165,7 @@
     <string name="store_store12">경기 성남시 수정구 복정로72번길 4</string>
     <string name="store_store13">경기 성남시 수정구 복정로 10-1</string>
     <string name="store_store14">경기 성남시 수정구 복정로20번길 20-12</string>
-
+<!--    /편의점-->
 </resources>
 
 <!--    <한식>-->
@@ -145,9 +191,20 @@
 <!--    18 쉐프로제			        031-755-6331	경기 성남시 수정구 성남대로1480번길 6 1층-->
 <!--    19 응암역소문난순대국 복정점	0507-1421-0610	경기 성남시 수정구 성남대로1518번길 8-->
 
+<!--    <중국집>-->
 
-
-
+<!--00 홍짜장			    031-755-4071 	경기 성남시 수정구 복정로 73-->
+<!--01 황궁					               경기 성남시 수정구 복정로 14-->
+<!--02 만다린			    031-751-4455	경기 성남시 수정구 복정로 58-->
+<!--03 참진 해물짬뽕짜장	    031-723-8786	경기 성남시 수정구 복정로 51-1 1층-->
+<!--04 현짜장			    031-721-4775	경기 성남시 수정구 복정로 83 1층-->
+<!--05 부자뿅의전설		    031-753-8680	경기 성남시 수정구 복정로 105-->
+<!--06 마라킹			    070-8621-2771	경기 성남시 수정구 복정로 92 102호-->
+<!--07 행복로드마라탕		    070-7543-6867	경기 성남시 수정구 복정로 81-->
+<!--08 중림			        031-722-4881	경기 성남시 수정구 복정로 127-1-->
+<!--09 장원각			    031-625-0072	경기 성남시 수정구 복정로20번길 1-->
+<!--10 금성반점			    031-751-7979	경기 성남시 수정구 성남대로1390번길 10-->
+<!--11 북경성반점		        031-722-3255	경기 성남시 수정구 복정로 90 1층-->
 
 <!--    <CU 편의점>-->
 <!--    0 CU 복정하나점			031-753-9809	경기 성남시 수정구 복정로 135 미보빌딩-->

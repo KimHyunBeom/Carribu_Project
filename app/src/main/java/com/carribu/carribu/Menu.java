@@ -163,54 +163,64 @@ public class Menu extends AppCompatActivity {
 
             case 1: //중식
                 card[0].setImage(R.mipmap.ic_launcher);
-                card[0].setName("홍짜장");
-                card[0].setMobile("031-755-4071");
-                card[0].setStore("경기 성남시 수정구 복정로 28");
+                card[0].setName(getString(R.string.chineseF_name0));
+                card[0].setMobile(getString(R.string.chineseF_moblie0));
+                card[0].setStore(getString(R.string.chineseF_store0));
 
                 card[1].setImage(R.mipmap.ic_launcher);
-                card[1].setName("황궁");
-                card[1].setMobile("010-9135-7165");
-                card[1].setStore("경기 성남시 수정구 복정로 14");
+                card[1].setName(getString(R.string.chineseF_name1));
+                card[1].setMobile("번호 없음");
+                card[1].setStore(getString(R.string.chineseF_store1));
 
                 card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("만다린");
-                card[2].setMobile("031-751-4455");
-                card[2].setStore("경기 성남시 수정구 복정로 58");
+                card[2].setName(getString(R.string.chineseF_name2));
+                card[2].setMobile(getString(R.string.chineseF_moblie2));
+                card[2].setStore(getString(R.string.chineseF_store2));
 
                 card[3].setImage(R.mipmap.ic_launcher);
-                card[3].setName("참진 해물짬뽕짜장");
-                card[3].setMobile("031-723-8786");
-                card[3].setStore("경기 성남시 수정구 복정로 51-1 1층");
+                card[3].setName(getString(R.string.chineseF_name3));
+                card[3].setMobile(getString(R.string.chineseF_moblie3));
+                card[3].setStore(getString(R.string.chineseF_store3));
 
                 card[4].setImage(R.mipmap.ic_launcher);
-                card[4].setName("현짜장");
-                card[4].setMobile("031-721-4775");
-                card[4].setStore("경기 성남시 수정구 복정로 83 1층");
+                card[4].setName(getString(R.string.chineseF_name4));
+                card[4].setMobile(getString(R.string.chineseF_moblie4));
+                card[4].setStore(getString(R.string.chineseF_store4));
 
                 card[5].setImage(R.mipmap.ic_launcher);
-                card[5].setName("부자뿅의전설");
-                card[5].setMobile("031-753-8680");
-                card[5].setStore("경기 성남시 수정구 복정로 105");
+                card[5].setName(getString(R.string.chineseF_name5));
+                card[5].setMobile(getString(R.string.chineseF_moblie5));
+                card[5].setStore(getString(R.string.chineseF_store5));
 
                 card[6].setImage(R.mipmap.ic_launcher);
-                card[6].setName("장원각");
-                card[6].setMobile("031-625-0072");
-                card[6].setStore("경기 성남시 수정구 복정로20번길 1");
+                card[6].setName(getString(R.string.chineseF_name6));
+                card[6].setMobile(getString(R.string.chineseF_moblie6));
+                card[6].setStore(getString(R.string.chineseF_store6));
 
                 card[7].setImage(R.mipmap.ic_launcher);
-                card[7].setName("마라킹");
-                card[7].setMobile("070-8621-2771");
-                card[7].setStore("경기 성남시 수정구 복정로 92 102호");
+                card[7].setName(getString(R.string.chineseF_name7));
+                card[7].setMobile(getString(R.string.chineseF_moblie7));
+                card[7].setStore(getString(R.string.chineseF_store7));
 
                 card[8].setImage(R.mipmap.ic_launcher);
-                card[8].setName("행복로드마라탕");
-                card[8].setMobile("070-7543-6867");
-                card[8].setStore("경기 성남시 수정구 복정로 81");
+                card[8].setName(getString(R.string.chineseF_name8));
+                card[8].setMobile(getString(R.string.chineseF_moblie8));
+                card[8].setStore(getString(R.string.chineseF_store8));
 
                 card[9].setImage(R.mipmap.ic_launcher);
-                card[9].setName("중림");
-                card[9].setMobile("031-722-4881");
-                card[9].setStore("경기 성남시 수정구 복정로 127-1");
+                card[9].setName(getString(R.string.chineseF_name9));
+                card[9].setMobile(getString(R.string.chineseF_moblie9));
+                card[9].setStore(getString(R.string.chineseF_store9));
+
+                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setName(getString(R.string.chineseF_name10));
+                card[10].setMobile(getString(R.string.chineseF_moblie10));
+                card[10].setStore(getString(R.string.chineseF_store10));
+
+                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setName(getString(R.string.chineseF_name11));
+                card[11].setMobile(getString(R.string.chineseF_moblie11));
+                card[11].setStore(getString(R.string.chineseF_store11));
 
                 break;
 
