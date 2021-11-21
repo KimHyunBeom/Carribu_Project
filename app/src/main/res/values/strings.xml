@@ -72,6 +72,41 @@
     <string name="hanshigdag_store18">경기 성남시 수정구 성남대로1480번길 6 1층</string>
     <string name="hanshigdag_store19">경기 성남시 수정구 성남대로1518번길 8</string>
 <!--    /한식-->
+<!--    <분식>-->
+    <!--분식 이름-->
+    <string name="bunsig_name0">오떡후 복정점</string>
+    <string name="bunsig_name1">우짜돈 본점</string>
+    <string name="bunsig_name2">그집김밥</string>
+    <string name="bunsig_name3">참새방앗간</string>
+    <string name="bunsig_name4">미스터떡볶이 동서울대점</string>
+    <string name="bunsig_name5">밥마리김밥</string>
+    <string name="bunsig_name6">서경꼬마김밥</string>
+    <string name="bunsig_name7">쉐프밥버거 동서울대점</string>
+    <string name="bunsig_name8">엉터리분식</string>
+    <string name="bunsig_name9">밥마리김밥</string>
+    <!--분식 번호-->
+    <string name="bunsig_moblie0">031-758-5296</string>
+    <string name="bunsig_moblie1">031-751-2111</string>
+    <string name="bunsig_moblie2">031-757-1434</string>
+    <string name="bunsig_moblie3">031-757-3159</string>
+    <string name="bunsig_moblie4">031-751-8250</string>
+    <string name="bunsig_moblie5">031-755-7977</string>
+    <string name="bunsig_moblie6">031-755-5575</string>
+    <string name="bunsig_moblie7">031-754-0842</string>
+    <string name="bunsig_moblie8">031-759-5388</string>
+    <string name="bunsig_moblie9">031-755-7977</string>
+    <!--분식 주소-->
+    <string name="bunsig_store0">경기 성남시 수정구 복정로158번길 11 1층</string>
+    <string name="bunsig_store1">경기 성남시 수정구 성남대로 1522 1층</string>
+    <string name="bunsig_store2">경기 성남시 수정구 성남대로1518번길 8</string>
+    <string name="bunsig_store3">경기 성남시 수정구 성남대로1480번길 9</string>
+    <string name="bunsig_store4">경기 성남시 수정구 복정로 68</string>
+    <string name="bunsig_store5">경기 성남시 수정구 복정로 68</string>
+    <string name="bunsig_store6">경기 성남시 수정구 복정로 66</string>
+    <string name="bunsig_store7">경기 성남시 수정구 복정로 68</string>
+    <string name="bunsig_store8">경기 성남시 수정구 복정로 18 지산빌딩</string>
+    <string name="bunsig_store9">경기 성남시 수정구 복정로 68</string>
+<!--    </분식>-->
 
 <!--    중국집>-->
     <!--중국집 이름-->
@@ -474,3 +509,16 @@
 <!--포크포크 돈가스 , 냉면	031-751-3223	경기 성남시 수정구 복정로 30-->
 <!--카츠선 동서울대본점	0507-1323-507	경기 성남시 수정구 복정로 64 1층 카츠선-->
 <!--희락돈까스		    031-759-0982	경기 성남시 수정구 복정로 43-->
+
+<!--<분식>-->
+
+<!--오떡후 복정점		    031-758-5296	경기 성남시 수정구 복정로158번길 11 1층-->
+<!--우짜돈 본점		    031-751-2111	경기 성남시 수정구 성남대로 1522 1층-->
+<!--그집김밥			    031-757-1434	경기 성남시 수정구 성남대로1518번길 8-->
+<!--참새방앗간		    031-757-3159	경기 성남시 수정구 성남대로1480번길 9-->
+<!--미스터떡볶이 동서울대점	031-751-8250	경기 성남시 수정구 복정로 68-->
+<!--밥마리김밥		    031-755-7977	경기 성남시 수정구 복정로 68-->
+<!--서경꼬마김밥		    031-755-5575	경기 성남시 수정구 복정로 66-->
+<!--쉐프밥버거 동서울대점	031-754-0842 	경기 성남시 수정구 복정로 68-->
+<!--엉터리분식		    031-759-5388	경기 성남시 수정구 복정로 18 지산빌딩-->
+<!--밥마리김밥		    031-755-7977	경기 성남시 수정구 복정로 68-->

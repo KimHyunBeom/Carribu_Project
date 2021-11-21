@@ -254,154 +254,145 @@ public class Menu extends AppCompatActivity {
 
 
             case 3://일식
-                card[0].setImage(R.mipmap.ic_launcher);
+                card[0].setImage(R.drawable.j_0);
                 card[0].setName(getString(R.string.japenesF_name0));
                 card[0].setMobile(getString(R.string.japenesF_moblie0));
                 card[0].setStore(getString(R.string.japenesF_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.j_1);
                 card[1].setName(getString(R.string.japenesF_name1));
                 card[1].setMobile(getString(R.string.japenesF_moblie1));
                 card[1].setStore(getString(R.string.japenesF_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
+                card[2].setImage(R.drawable.j_2);
                 card[2].setName(getString(R.string.japenesF_name2));
                 card[2].setMobile(getString(R.string.japenesF_moblie2));
                 card[2].setStore(getString(R.string.japenesF_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+                card[3].setImage(R.drawable.j_3);
                 card[3].setName(getString(R.string.japenesF_name3));
                 card[3].setMobile(getString(R.string.japenesF_moblie3));
                 card[3].setStore(getString(R.string.japenesF_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.j_4);
                 card[4].setName(getString(R.string.japenesF_name4));
                 card[4].setMobile(getString(R.string.japenesF_moblie4));
                 card[4].setStore(getString(R.string.japenesF_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
+                card[5].setImage(R.drawable.j_5);
                 card[5].setName(getString(R.string.japenesF_name5));
                 card[5].setMobile(getString(R.string.japenesF_moblie5));
                 card[5].setStore(getString(R.string.japenesF_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.j_6);
                 card[6].setName(getString(R.string.japenesF_name6));
                 card[6].setMobile(getString(R.string.japenesF_moblie6));
                 card[6].setStore(getString(R.string.japenesF_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
                 card[7].setName(getString(R.string.japenesF_name7));
                 card[7].setMobile(getString(R.string.japenesF_moblie7));
                 card[7].setStore(getString(R.string.japenesF_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.j_8);
                 card[8].setName(getString(R.string.japenesF_name8));
                 card[8].setMobile(getString(R.string.japenesF_moblie8));
                 card[8].setStore(getString(R.string.japenesF_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
+                card[9].setImage(R.drawable.j_9);
                 card[9].setName(getString(R.string.japenesF_name9));
                 card[9].setMobile(getString(R.string.japenesF_moblie9));
                 card[9].setStore(getString(R.string.japenesF_store9));
 
-                card[10].setImage(R.mipmap.ic_launcher);
                 card[10].setName(getString(R.string.japenesF_name10));
                 card[10].setMobile(getString(R.string.japenesF_moblie10));
                 card[10].setStore(getString(R.string.japenesF_store10));
 
-                card[11].setImage(R.mipmap.ic_launcher);
                 card[11].setName(getString(R.string.japenesF_name11));
                 card[11].setMobile(getString(R.string.japenesF_moblie11));
                 card[11].setStore(getString(R.string.japenesF_store11));
 
-                card[12].setImage(R.mipmap.ic_launcher);
                 card[12].setName(getString(R.string.japenesF_name12));
                 card[12].setMobile(getString(R.string.japenesF_moblie12));
                 card[12].setStore(getString(R.string.japenesF_store12));
 
-                card[13].setImage(R.mipmap.ic_launcher);
                 card[13].setName(getString(R.string.japenesF_name13));
                 card[13].setMobile(getString(R.string.japenesF_moblie13));
                 card[13].setStore(getString(R.string.japenesF_store13));
 
-                card[14].setImage(R.mipmap.ic_launcher);
                 card[14].setName(getString(R.string.japenesF_name14));
                 card[14].setMobile(getString(R.string.japenesF_moblie14));
                 card[14].setStore(getString(R.string.japenesF_store14));
 
-                card[15].setImage(R.mipmap.ic_launcher);
                 card[15].setName(getString(R.string.japenesF_name15));
                 card[15].setMobile(getString(R.string.japenesF_moblie15));
                 card[15].setStore(getString(R.string.japenesF_store15));
 
-                card[16].setImage(R.mipmap.ic_launcher);
                 card[16].setName(getString(R.string.japenesF_name16));
                 card[16].setMobile(getString(R.string.japenesF_moblie16));
                 card[16].setStore(getString(R.string.japenesF_store16));
 
-                card[17].setImage(R.mipmap.ic_launcher);
                 card[17].setName(getString(R.string.japenesF_name17));
                 card[17].setMobile(getString(R.string.japenesF_moblie17));
                 card[17].setStore(getString(R.string.japenesF_store17));
 
-                card[18].setImage(R.mipmap.ic_launcher);
                 card[18].setName(getString(R.string.japenesF_name18));
                 card[18].setMobile(getString(R.string.japenesF_moblie18));
                 card[18].setStore(getString(R.string.japenesF_store18));
+
 
                 break;
 
             case 4://분식
 
                 card[0].setImage(R.mipmap.ic_launcher);
-                card[0].setName("미스터 떡볶이");
-                card[0].setMobile("031-751-8250");
-                card[0].setStore("경기 성남시 수정구 복정로 68");
+                card[0].setName(getString(R.string.bunsig_name0));
+                card[0].setMobile(getString(R.string.bunsig_moblie0));
+                card[0].setStore(getString(R.string.bunsig_store0));
 
                 card[1].setImage(R.mipmap.ic_launcher);
-                card[1].setName("신전 떡볶이");
-                card[1].setMobile("031-753-9399");
-                card[1].setStore("경기 성남시 수정구 복정로42번길 1");
+                card[1].setName(getString(R.string.bunsig_name1));
+                card[1].setMobile(getString(R.string.bunsig_moblie1));
+                card[1].setStore(getString(R.string.bunsig_store1));
 
                 card[2].setImage(R.mipmap.ic_launcher);
-                card[2].setName("서경꼬마김밥");
-                card[2].setMobile("031-755-5575");
-                card[2].setStore("경기 성남시 수정구 복정로 66");
+                card[2].setName(getString(R.string.bunsig_name2));
+                card[2].setMobile(getString(R.string.bunsig_moblie2));
+                card[2].setStore(getString(R.string.bunsig_store2));
 
                 card[3].setImage(R.mipmap.ic_launcher);
-                card[3].setName("오떡후 복정점");
-                card[3].setMobile("031-758-5296");
-                card[3].setStore("경기 성남시 수정구 복정로158번길 11 1층");
+                card[3].setName(getString(R.string.bunsig_name3));
+                card[3].setMobile(getString(R.string.bunsig_moblie3));
+                card[3].setStore(getString(R.string.bunsig_store3));
 
                 card[4].setImage(R.mipmap.ic_launcher);
-                card[4].setName("우짜돈 본점");
-                card[4].setMobile("031-751-2111");
-                card[4].setStore("경기 성남시 수정구 성남대로 1522 1층");
+                card[4].setName(getString(R.string.bunsig_name4));
+                card[4].setMobile(getString(R.string.bunsig_moblie4));
+                card[4].setStore(getString(R.string.bunsig_store4));
 
                 card[5].setImage(R.mipmap.ic_launcher);
-                card[5].setName("그집김밥");
-                card[5].setMobile("031-757-1434");
-                card[5].setStore("경기 성남시 수정구 성남대로1518번길 8");
+                card[5].setName(getString(R.string.bunsig_name5));
+                card[5].setMobile(getString(R.string.bunsig_moblie5));
+                card[5].setStore(getString(R.string.bunsig_store5));
 
                 card[6].setImage(R.mipmap.ic_launcher);
-                card[6].setName("회스시");
-                card[6].setMobile("0507-1313-9710");
-                card[6].setStore("경기 성남시 수정구 성남대로1416번길 14");
+                card[6].setName(getString(R.string.bunsig_name6));
+                card[6].setMobile(getString(R.string.bunsig_moblie6));
+                card[6].setStore(getString(R.string.bunsig_store6));
 
                 card[7].setImage(R.mipmap.ic_launcher);
-                card[7].setName("참새방앗간");
-                card[7].setMobile("031-757-3159");
-                card[7].setStore("경기 성남시 수정구 성남대로1480번길 9");
+                card[7].setName(getString(R.string.bunsig_name7));
+                card[7].setMobile(getString(R.string.bunsig_moblie7));
+                card[7].setStore(getString(R.string.bunsig_store7));
 
                 card[8].setImage(R.mipmap.ic_launcher);
-                card[8].setName(" 엉터리분식");
-                card[8].setMobile("031-759-5388");
-                card[8].setStore("경기 성남시 수정구 복정로 18 지산빌딩");
+                card[8].setName(getString(R.string.bunsig_name8));
+                card[8].setMobile(getString(R.string.bunsig_moblie8));
+                card[8].setStore(getString(R.string.bunsig_store8));
 
                 card[9].setImage(R.mipmap.ic_launcher);
-                card[9].setName("밥마리김밥");
-                card[9].setMobile("031-755-7977");
-                card[9].setStore("경기 성남시 수정구 복정로 68");
+                card[9].setName(getString(R.string.bunsig_name9));
+                card[9].setMobile(getString(R.string.bunsig_moblie9));
+                card[9].setStore(getString(R.string.bunsig_store9));
 
                 break;
 
