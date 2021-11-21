@@ -38,15 +38,17 @@
                     android:id="@+id/textView1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textSize="30sp"
+                    android:textSize="23sp"
+                    android:layout_weight="8"
                     android:text="가게명"
                     />
                 <TextView
                     android:id="@+id/textView2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:textSize="20sp"
+                    android:textSize="18sp"
                     android:textColor="#FF0000FF"
+                    android:layout_weight="1"
                     android:text="전화번호"
                     />
                 <TextView
@@ -55,6 +57,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="15sp"
                     android:textColor="#FF0000FF"
+                    android:layout_weight="1"
                     android:text="가게 주소"
                     />
 
