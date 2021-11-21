@@ -53,6 +53,7 @@ public class Menu extends AppCompatActivity {
             card[i] = findViewById(cardIDs[i]);
         }
 
+        //<꿀팁> Alt+J 단축키 사용시 멀티 셀렉트 가능(여러줄 수정시 사용!!)
 
         number = intent.getIntExtra("number", -1); //MainAdapter에서 전달된 데이터를 받음.
 
