@@ -162,62 +162,61 @@ public class Menu extends AppCompatActivity {
                 break;
 
             case 1: //중국집 (최신화 완료)
-                card[0].setImage(R.mipmap.ic_launcher);
+                card[0].setImage(R.drawable.ck_0);
                 card[0].setName(getString(R.string.chineseF_name0));
                 card[0].setMobile(getString(R.string.chineseF_moblie0));
                 card[0].setStore(getString(R.string.chineseF_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.ck_1);
                 card[1].setName(getString(R.string.chineseF_name1));
-                card[1].setMobile("번호 없음");
+                card[1].setMobile(getString(R.string.not_moblie));
                 card[1].setStore(getString(R.string.chineseF_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
+                card[2].setImage(R.drawable.ck_2);
                 card[2].setName(getString(R.string.chineseF_name2));
                 card[2].setMobile(getString(R.string.chineseF_moblie2));
                 card[2].setStore(getString(R.string.chineseF_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+                card[3].setImage(R.drawable.ck_3);
                 card[3].setName(getString(R.string.chineseF_name3));
                 card[3].setMobile(getString(R.string.chineseF_moblie3));
                 card[3].setStore(getString(R.string.chineseF_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.ck_4);
                 card[4].setName(getString(R.string.chineseF_name4));
                 card[4].setMobile(getString(R.string.chineseF_moblie4));
                 card[4].setStore(getString(R.string.chineseF_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
+                card[5].setImage(R.drawable.ck_5);
                 card[5].setName(getString(R.string.chineseF_name5));
                 card[5].setMobile(getString(R.string.chineseF_moblie5));
                 card[5].setStore(getString(R.string.chineseF_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.ck_6);
                 card[6].setName(getString(R.string.chineseF_name6));
                 card[6].setMobile(getString(R.string.chineseF_moblie6));
                 card[6].setStore(getString(R.string.chineseF_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
+                card[7].setImage(R.drawable.ck_7);
                 card[7].setName(getString(R.string.chineseF_name7));
                 card[7].setMobile(getString(R.string.chineseF_moblie7));
                 card[7].setStore(getString(R.string.chineseF_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.ck_8);
                 card[8].setName(getString(R.string.chineseF_name8));
                 card[8].setMobile(getString(R.string.chineseF_moblie8));
                 card[8].setStore(getString(R.string.chineseF_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
                 card[9].setName(getString(R.string.chineseF_name9));
                 card[9].setMobile(getString(R.string.chineseF_moblie9));
                 card[9].setStore(getString(R.string.chineseF_store9));
 
-                card[10].setImage(R.mipmap.ic_launcher);
+                card[10].setImage(R.drawable.ck_10);
                 card[10].setName(getString(R.string.chineseF_name10));
                 card[10].setMobile(getString(R.string.chineseF_moblie10));
                 card[10].setStore(getString(R.string.chineseF_store10));
 
-                card[11].setImage(R.mipmap.ic_launcher);
+                card[11].setImage(R.drawable.ck_11);
                 card[11].setName(getString(R.string.chineseF_name11));
                 card[11].setMobile(getString(R.string.chineseF_moblie11));
                 card[11].setStore(getString(R.string.chineseF_store11));
@@ -253,7 +252,7 @@ public class Menu extends AppCompatActivity {
                 break;
 
 
-            case 3://일식
+            case 3://일식 (최신화 완료)
                 card[0].setImage(R.drawable.j_0);
                 card[0].setName(getString(R.string.japenesF_name0));
                 card[0].setMobile(getString(R.string.japenesF_moblie0));
@@ -344,52 +343,49 @@ public class Menu extends AppCompatActivity {
 
             case 4://분식
 
-                card[0].setImage(R.mipmap.ic_launcher);
+                card[0].setImage(R.drawable.bun_0);
                 card[0].setName(getString(R.string.bunsig_name0));
                 card[0].setMobile(getString(R.string.bunsig_moblie0));
                 card[0].setStore(getString(R.string.bunsig_store0));
 
-                card[1].setImage(R.mipmap.ic_launcher);
+                card[1].setImage(R.drawable.bun_1);
                 card[1].setName(getString(R.string.bunsig_name1));
                 card[1].setMobile(getString(R.string.bunsig_moblie1));
                 card[1].setStore(getString(R.string.bunsig_store1));
 
-                card[2].setImage(R.mipmap.ic_launcher);
                 card[2].setName(getString(R.string.bunsig_name2));
                 card[2].setMobile(getString(R.string.bunsig_moblie2));
                 card[2].setStore(getString(R.string.bunsig_store2));
 
-                card[3].setImage(R.mipmap.ic_launcher);
+                card[3].setImage(R.drawable.bun_3);
                 card[3].setName(getString(R.string.bunsig_name3));
                 card[3].setMobile(getString(R.string.bunsig_moblie3));
                 card[3].setStore(getString(R.string.bunsig_store3));
 
-                card[4].setImage(R.mipmap.ic_launcher);
+                card[4].setImage(R.drawable.bun_4);
                 card[4].setName(getString(R.string.bunsig_name4));
                 card[4].setMobile(getString(R.string.bunsig_moblie4));
                 card[4].setStore(getString(R.string.bunsig_store4));
 
-                card[5].setImage(R.mipmap.ic_launcher);
                 card[5].setName(getString(R.string.bunsig_name5));
                 card[5].setMobile(getString(R.string.bunsig_moblie5));
                 card[5].setStore(getString(R.string.bunsig_store5));
 
-                card[6].setImage(R.mipmap.ic_launcher);
+                card[6].setImage(R.drawable.bun_6);
                 card[6].setName(getString(R.string.bunsig_name6));
                 card[6].setMobile(getString(R.string.bunsig_moblie6));
                 card[6].setStore(getString(R.string.bunsig_store6));
 
-                card[7].setImage(R.mipmap.ic_launcher);
                 card[7].setName(getString(R.string.bunsig_name7));
                 card[7].setMobile(getString(R.string.bunsig_moblie7));
                 card[7].setStore(getString(R.string.bunsig_store7));
 
-                card[8].setImage(R.mipmap.ic_launcher);
+                card[8].setImage(R.drawable.bun_8);
                 card[8].setName(getString(R.string.bunsig_name8));
                 card[8].setMobile(getString(R.string.bunsig_moblie8));
                 card[8].setStore(getString(R.string.bunsig_store8));
 
-                card[9].setImage(R.mipmap.ic_launcher);
+                card[9].setImage(R.drawable.bun_9);
                 card[9].setName(getString(R.string.bunsig_name9));
                 card[9].setMobile(getString(R.string.bunsig_moblie9));
                 card[9].setStore(getString(R.string.bunsig_store9));
@@ -597,7 +593,7 @@ public class Menu extends AppCompatActivity {
                 card[8].setStore(getString(R.string.beer_store8));
 
                 card[9].setName(getString(R.string.beer_name9));
-                card[9].setMobile("번호 없음");
+                card[9].setMobile(getString(R.string.not_moblie));
                 card[9].setStore(getString(R.string.beer_store9));
 
                 card[10].setImage(R.drawable.b_10);
@@ -612,7 +608,7 @@ public class Menu extends AppCompatActivity {
 
                 card[12].setImage(R.drawable.b_12);
                 card[12].setName(getString(R.string.beer_name12));
-                card[12].setMobile("번호 없음");
+                card[12].setMobile(getString(R.string.not_moblie));
                 card[12].setStore(getString(R.string.beer_store12));
 
                 card[13].setImage(R.drawable.b_13);
@@ -630,7 +626,7 @@ public class Menu extends AppCompatActivity {
 
                 card[16].setImage(R.drawable.b_16);
                 card[16].setName(getString(R.string.beer_name16));
-                card[16].setMobile("번호 없음");
+                card[16].setMobile(getString(R.string.not_moblie));
                 card[16].setStore(getString(R.string.beer_store16));
 
 
@@ -645,7 +641,7 @@ public class Menu extends AppCompatActivity {
 
                 card[1].setImage(R.drawable.cu);
                 card[1].setName(getString(R.string.store_name1));
-                card[1].setMobile("번호 없음");
+                card[1].setMobile(getString(R.string.not_moblie));
                 card[1].setStore(getString(R.string.store_store1));
 
                 card[2].setImage(R.drawable.cu);
@@ -660,7 +656,7 @@ public class Menu extends AppCompatActivity {
 
                 card[4].setImage(R.drawable.cu);
                 card[4].setName(getString(R.string.store_name4));
-                card[4].setMobile("번호 없음");
+                card[4].setMobile(getString(R.string.not_moblie));
                 card[4].setStore(getString(R.string.store_store4));
 
                 card[5].setImage(R.drawable.cu);
@@ -675,7 +671,7 @@ public class Menu extends AppCompatActivity {
 
                 card[7].setImage(R.drawable.eleven);
                 card[7].setName(getString(R.string.store_name7));
-                card[7].setMobile("번호 없음");
+                card[7].setMobile(getString(R.string.not_moblie));
                 card[7].setStore(getString(R.string.store_store7));
 
                 card[8].setImage(R.drawable.eleven);
@@ -685,7 +681,7 @@ public class Menu extends AppCompatActivity {
 
                 card[9].setImage(R.drawable.eleven);
                 card[9].setName(getString(R.string.store_name9));
-                card[9].setMobile("번호 없음");
+                card[9].setMobile(getString(R.string.not_moblie));
                 card[9].setStore(getString(R.string.store_store9));
 
                 card[10].setImage(R.drawable.eleven);

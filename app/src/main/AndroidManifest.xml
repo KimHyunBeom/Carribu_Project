@@ -13,7 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Carribu"
         android:name=".KakaoApplication">
-        <activity android:name=".IntroActivity">
+        <activity
+            android:name=".IntroActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
